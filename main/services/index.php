@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:image" content="http://images.trans-s.su/assets/images/logo1.png" />.
-    <title>Оставить заявку</title>
-    <meta name="description" content="Российская транспортная компания с высоким уровнем надёжности. Оказываем услуги международной перевозки грузов. Контактная информация.">
+    <title>Trans-service</title>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142834567-1"></script>
 <script>
@@ -15,25 +14,26 @@
 
   gtag('config', 'UA-142834567-1');
 </script>
-    <link rel="stylesheet" href="./assets/styles/layout.css">
-    <link rel="stylesheet" href="./assets/styles/normalize.css">
-    <link rel="stylesheet" href="./assets/styles/fonts.css">
-    <link rel="stylesheet" href="./assets/styles/libraries/swiper.css">
-    <link rel="stylesheet" href="./assets/styles/components/breadcrumbs.css">
-    <link rel="stylesheet" href="./assets/styles/components/title.css">
-    <link rel="stylesheet" href="./assets/styles/components/header.css">
-    <link rel="stylesheet" href="./assets/styles/components/nav.css">
-    <link rel="stylesheet" href="./assets/styles/components/form.css">
-    <link rel="stylesheet" href="./assets/styles/components/footer.css">
-    <link rel="stylesheet" href="./assets/styles/components/services.css">
-    <link rel="stylesheet" href="./assets/styles/page/contacts.css">
+    <link rel="stylesheet" href="../assets/styles/layout.css">
+    <link rel="stylesheet" href="../assets/styles/normalize.css">
+    <link rel="stylesheet" href="../assets/styles/fonts.css">
+    <link rel="stylesheet" href="../assets/styles/libraries/swiper.css">
+    <link rel="stylesheet" href="../assets/styles/components/breadcrumbs.css">
+    <link rel="stylesheet" href="../assets/styles/components/title.css">
+    <link rel="stylesheet" href="../assets/styles/components/header.css">
+    <link rel="stylesheet" href="../assets/styles/components/nav.css">
+    <link rel="stylesheet" href="../assets/styles/components/form.css">
+    <link rel="stylesheet" href="../assets/styles/components/footer.css">
+    <link rel="stylesheet" href="../assets/styles/page/services-blog.css">
 
-    <link rel="stylesheet" href="./assets/styles/style.css">
-    <link rel="stylesheet" href="./assets/styles/styles.css">
-    <link href="./assets/images/favicon.ico" rel="shortcut icon" type=image/vnd.microsoft.icon />
+    <link rel="stylesheet" href="../assets/styles/style.css">
+
+    <link rel="stylesheet" href="../assets/styles/styles.css">
+    <link href="/assets/images/favicon.ico" rel="shortcut icon" type=image/vnd.microsoft.icon />
 
 </head>
 <body>
+
 <div class="app">
 
     <header class="header">
@@ -324,13 +324,27 @@
 		</div>
 
 
+    <section class="breadcrumbs">
+        <div class="breadcrumbs__container">
+            <div class="breadcrumbs__content">
+                <h3 class="breadcrumbs__main">
+                    Главная /
+                </h3>
+
+                <h3 class="breadcrumbs__active">
+                    Услуги 
+                </h3>
+            </div>
+        </div>
+    </section>
+
     <section class="title">
         <div class="title__container">
             <ul class="title__list">
                 <li class="title__item">
                     <div class="title__content">
                         <h3 class="title__title-about">
-                            Страница в разработке!
+                            Услуги
                         </h3>
                         <div class="title__strip">
 
@@ -341,66 +355,193 @@
         </div>
     </section>
 
-    <section class="form form__order">
-        <div class="form__container">
-            <form action="./response-order.php" class="form__content form__order" method="post">
-                <h3 class="form__title">Оставить заявку</h3>
-                <div class="form__input-fields-wrapper">
+    <section class="services-blog">
 
-                    <div class="form__input-fields">
-                        <input class="form__field form__name" type="text" name="dest-from" placeholder="Откуда: ">
-                        <input class="form__field form__where" type="text" name="dest-to" placeholder="Куда: ">
-                        <input class="form__field form__package-name" type="text" name="package-name" placeholder="Наименование груза: ">
-                        <input class="form__field form__weight" type="text" name="weight" placeholder="Вес груза, тн: ">
-                        <input class="form__field form__to" type="text" name="sizes" placeholder="Габариты груза (ДхШхВ), м: ">
-                        <input class="form__field form__space" type="text" name="space" placeholder="Объем груза, м3: ">
-                        <input class="form__field form__tel" type="phone"  placeholder="Ваш номер телефона: ">
-                    </div>
+      <div class="services-blog__item">
+          <div class="item__text">
+            <h2><a href="../services/auto.html">Автомобильные грузоперевозки</a></h2>
 
-                    <div class="form__input-fields">
-                        <textarea class="form__field form__field--textarea" type="text" name="comment" placeholder="Комментарий: "></textarea>
-                    </div>
-                </div>
+            <p>Компания «ТРАНССЕРВИС» оказывает услуги по перевозке грузов следующими видами автомобильного транспорта:</p>
 
-                <div class="form__privacy">
-                    <input class="form__checkbox" type="checkbox">
-                    <a href="./politic.html" class="form__accept">Я согласен с условиями пользовательского соглашения </a>
-                </div>
-
-                <button class="form__button" type="submit" disabled>Отправить</button>
-            </form>
-
-            <div class="form__message">Ваше сообщение отправлено</div>
-        </div>
-    </section>
-
-
-    <section class="services">
-        <div class="services__container">
-            <ul class="services__list">
-                <li class="services__item">
-                    <div class="services__content">
-                        <h3 class="services__title">
-                            Будем рады видеть Вас в числе наших клиентов!
-                        </h3>
-                        <div class="services__strip">
-
-                        </div>
-                        <p class="services__text">
-                            Мы заинтересованы в долгосрочных партнерских отношениях, основанных на уважении, доверии и взаимопомощи, поэтому индивидуально подходим к решению задач каждого клиента.
-                        </p>
-                    </div>
-                </li>
-
-                <li class="services__item">
-                    <div class="services__content">
-                       <div class="services__picture-wrapper">
-                           <img src="http://images.trans-s.su/assets/images/map.png" alt="Изображение" class="services__picture">
-                       </div>
-                    </div>
-                </li>
+            <ul class="text__list">
+              <li>Тентованные автомобили</li>
+              <li>Открытые бортовые автомобили</li>
+              <li>Контейнеровозы</li>
+              <li>Автоцистерны</li>
+              <li>Бензовозы</li>
+              <li>Платформы и низкорамные тралы</li>
+              <li>Изотермические автомобили</li>
+              <li>Рефрижераторные автомобили</li>
+              <li>Лесовозы</li>
+              <li>Автовозы</li>
             </ul>
+
+            <p>Мы осуществляем перевозку грузов автомобильным транспортом по следующим направлениям:</p>
+
+            <ul class="text__list">
+              <li>Грузоперевозки по России</li>
+              <li>Страны ЕАЭС (Казахстан, Белоруссия, Армения, Киргизия)</li>
+              <li>Страны Азии (Китай, Монголия, Грузия, Таджикистан, Узбекистан)</li>
+              <li>Страны Прибалтики (Литва, Латвия, Эстония)Страны Европейского Союза (Германия, Австрия, Чехия и другие)</li>
+              <li>Страны Европейского Союза (Германия, Австрия, Чехия и другие)</li>
+            </ul>
+
+            <p>Дополнительно мы имеем возможность таможенного оформления и страхования всех отправляемых грузов.</p>
+          </div>
+
+        <img src="http://images.trans-s.su/assets/images/autogruz.jpg"  class="pull-right">
+      </div>
+
+      <div class="services-blog__item">
+        <div class="item__text">
+
+          <h2><a href="../services/train.html">Железнодорожные грузоперевозки</a></h2>
+
+          <p>Компания «ТРАНССЕРВИС» оказывает услуги по перевозке грузов следующими видами подвижного железнодорожного состава:</p> 
+
+          <ul class="text__list">
+            <li>Платформы</li>
+            <li>Полувагоны</li>
+            <li>Крытые вагоны</li>
+            <li>Цистерны</li>
+            <li>Транспортеры</li>
+          </ul>
+
+           <p>Мы осуществляем перевозку грузов железнодорожным транспортом по следующим направлениям:</p>
+
+          <ul class="text__list">
+            <li>Грузоперевозки по России</li>
+            <li>Страны ЕАЭС (Казахстан, Белоруссия, Армения, Киргизия)</li>
+            <li>Страны Азии (Китай, Монголия, Грузия, Таджикистан, Узбекистан)</li>
+            <li>Страны Прибалтики (Литва, Латвия, Эстония)</li>
+            <li>Страны Европейского Союза (Германия, Австрия, Чехия и другие)</li>
+          </ul>
+
+           <p>Дополнительно мы имеем возможность таможенного оформления и страхования всех отправляемых грузов.</p>
         </div>
+
+        <img src="http://images.trans-s.su/assets/images/zheleznodorog.jpg"  class="pull-right">
+      </div>
+
+      <div class="services-blog__item">
+
+        <div class="item__text">
+          <h2><a href="../services/ship.html">Морские грузоперевозки</a></h2>
+
+          <p>Компания «ТРАНССЕРВИС» оказывает полный комплекс услуг, связанных с перевозкой грузов морским транспортом, включая: </p>
+
+          <ul class="text__list">
+            <li>Подбор оптимальной логистической схемы</li>
+            <li>Фрахтование судов</li>
+            <li>Доставка грузов в порты</li>
+            <li>Отслеживание грузов</li>
+            <li>Оформление полного пакета документов</li>
+          </ul>
+
+           <p>Мы осуществляем перевозку грузов морским транспортом по следующим направлениям:</p>
+
+          <ul class="text__list">
+            <li>Страны Азии</li>
+            <li>Страны Африки</li>
+            <li>Страны Европы</li>
+            <li>Страны Америки</li>
+            <li>Страны Австралии</li>
+          </ul>
+
+           <p>Дополнительно мы имеем возможность таможенного оформления и страхования всех отправляемых грузов.</p>
+        </div>
+        
+        <img src="http://images.trans-s.su/assets/images/more.jpg"  class="pull-right">
+      </div>
+
+      <div class="services-blog__item">
+
+        <div class="item__text">
+          <h2><a href="../services/multimodal.html">Мультимодальные грузоперевозки</a></h2>
+
+            <p>Компания «ТРАНССЕРВИС» оказывает полный комплекс услуг, связанных с мультимодальной перевозкой грузов автомобильным, железнодорожным и морским транспортом, включая: </p>
+
+          <ul class="text__list">
+            <li>Подбор оптимальной логистической схемы</li>
+            <li>Фрахтование судов</li>
+            <li>Доставка грузов в порты</li>
+            <li>Доставка грузов на железнодорожные площадки</li>
+            <li>Организация погрузки при смене вида транспорта</li>
+            <li>Организация временного хранения</li>
+            <li>Отслеживание грузов</li>
+            <li>Оформление полного пакета документов</li>
+          </ul>
+
+           <p>Мы осуществляем мультимодальные перевозки грузов по следующим направлениям:</p>
+
+          <ul class="text__list">
+            <li>Страны Азии</li>
+            <li>Страны Африки</li>
+            <li>Страны Европы</li>
+            <li>Страны Америки</li>
+            <li>Страны Австралии</li>
+          </ul>
+
+           <p>Дополнительно мы имеем возможность таможенного оформления и страхования всех отправляемых грузов.</p>
+        </div>
+        
+        <img src="http://images.trans-s.su/assets/images/multi2.jpg"  class="pull-right">
+      </div>
+
+      <div class="services-blog__item">
+
+          <div class="item__text">
+            <h2><a href="../services/oversized.html">Негабаритные грузоперевозки</a></h2>
+
+            <p>Компания «ТРАНССЕРВИС» оказывает услуги по перевозке негабаритных грузов следующими видами транспорта:</p> 
+
+            <ul class="text__list">
+              <li>Автомобильный транспорт</li>
+              <li>Железнодорожный транспорт</li>
+              <li>Морской транспорт</li>
+            </ul>
+
+             <p>Мы осуществляем перевозку негабаритных грузов по следующим направлениям:</p>
+
+            <ul class="text__list">
+              <li>Грузоперевозки по России</li>
+              <li>Страны ЕАЭС (Казахстан, Белоруссия, Армения, Киргизия)</li>
+              <li>Страны Азии (Китай, Монголия, Грузия, Таджикистан, Узбекистан)</li>
+              <li>Страны Прибалтики (Литва, Латвия, Эстония)</li>
+              <li>Страны Европейского Союза (Германия, Австрия, Чехия и другие)</li>
+            </ul>
+
+             <p>Дополнительно мы имеем возможность таможенного оформления и страхования всех отправляемых грузов.</p>
+          </div>
+        
+        <img src="http://images.trans-s.su/assets/images/negabaritnyiy-gruz.jpg"  class="pull-right">
+      </div>
+
+      <div class="services-blog__item">
+
+        <div class="item__text">
+          <h2><a href="../services/customs.html">Таможенное оформление</a></h2>
+
+          <p>Компания «ТРАНССЕРВИС» оказывает услуги по организации таможенного оформления при перемещении грузов через таможенную границу Российской Федерации автомобильным, железнодорожным или морским транспортом, включая: </p>
+
+          <ul class="text__list">
+            <li>Подготовка пакета документов для декларирования товаров</li>
+            <li>Электронное декларирование товаров при ЭКСПОРТЕ с территории РФ</li>
+            <li>Электронное декларирование товаров при ИМПОРТЕ на территорию РФ</li>
+          </ul>
+
+          <p>Дополнительно мы имеем возможность оказывать следующие виды услуг:</p>
+
+          <ul class="text__list">
+            <li>Услуга «Контрактодержатель» при экспорте и импорте товаров</li>
+            <li>Возврат НДС при экспорте товаров с территории РФ</li>
+            <li>Сертификация товаров</li>
+          </ul>
+        </div>
+        
+        <img src="http://images.trans-s.su/assets/images/tamoj_nya.jpg"  class="pull-right">
+      </div>
+
     </section>
 
     <div id="form" class="form__line-watch"></div>
@@ -426,7 +567,7 @@
                     <a href="./politic.html" class="form__accept">Я согласен с условиями пользовательского соглашения </a>
                 </div>
 
-                <button class="form__button test" type="submit">Отправить</button>
+                <input class="form__button" type="submit" value="Отправить">
             </form>
 
             <div class="form__message">Ваше сообщение отправлено</div>
@@ -466,22 +607,22 @@
                 </li>
 
                 <li class="footer__item">
-                    <a href="./services/auto.html" class="footer__link">Автомобильные грузоперевозки</a>
+                    <a href="/services/auto.html" class="footer__link">Автомобильные грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./services/train.html" class="footer__link">Железнодорожные  грузоперевозки</a>
+                    <a href="/services/train.html" class="footer__link">Железнодорожные  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./services/ship.html" class="footer__link">Морские  грузоперевозки</a>
+                    <a href="/services/ship.html" class="footer__link">Морские  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./services/multimodal.html" class="footer__link">Мультимодальные  грузоперевозки</a>
+                    <a href="/services/multimodal.html" class="footer__link">Мультимодальные  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./services/oversized.html" class="footer__link">Негабаритные  грузоперевозки</a>
+                    <a href="/services/oversized.html" class="footer__link">Негабаритные  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./services/customs.html" class="footer__link">Таможенное оформление</a>
+                    <a href="/services/customs.html" class="footer__link">Таможенное оформление</a>
                 </li>
             </ul>
 
@@ -490,19 +631,19 @@
                     <h4 class="footer__title"  > Справочная информация</h4>
                 </li>
                 <li class="footer__item">
-                    <a href="./inform/incotermes.html" class="footer__link">Инкотермс</a>
+                    <a href="/inform/incotermes.html" class="footer__link">Инкотермс</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./inform/type-trailers.html" class="footer__link">Виды грузовых автомобильных прицепов и полуприцепов</a>
+                    <a href="/inform/type-trailers.html" class="footer__link">Виды грузовых автомобильных прицепов и полуприцепов</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./inform/iron-mobile.html" class="footer__link">Виды подвижного железнодорожного состава</a>
+                    <a href="/inform/iron-mobile.html" class="footer__link">Виды подвижного железнодорожного состава</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./inform/iron-cont.html" class="footer__link">Виды железнодорожных контейнеров</a>
+                    <a href="/inform/iron-cont.html" class="footer__link">Виды железнодорожных контейнеров</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./inform/ship-cont.html" class="footer__link">Виды морских контейнеров</a>
+                    <a href="/inform/ship-cont.html" class="footer__link">Виды морских контейнеров</a>
                 </li>
             </ul>
 
@@ -546,42 +687,14 @@
         </div>
     </footer>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script src="./assets/javascript/menu.js"></script>
-    <script src="./assets/javascript/form.js"></script>
+    <script src="../assets/javascript/swiper/swiper.min.js"></script>
+    <script src="../assets/javascript/swiper-media.js"></script>
+    <script src="../assets/javascript/menu.js"></script>
+    <script src="../assets/javascript/form.js"></script>
+
 		<script src="https://api-maps.yandex.ru/2.0/?load=package.full&lang=ru-RU" type="text/javascript"></script>
 		<script src="./assets/javascript/jquery.cookie.js"></script>
-    <!-- Yandex.Metrika counter -->
-    <script type="text/javascript" >
-       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-       m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-       (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-       ym(50961584, "init", {
-            clickmap:true,
-            trackLinks:true,
-            accurateTrackBounce:true,
-            webvisor:true
-       });
-    </script>
-    <noscript><div><img src="https://mc.yandex.ru/watch/50961584" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-    <!-- /Yandex.Metrika counter -->
-    <!-- Yandex.Metrika counter -->
-    <script type="text/javascript" >
-       (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-       m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-       (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-       ym(53276584, "init", {
-            clickmap:true,
-            trackLinks:true,
-            accurateTrackBounce:true,
-            webvisor:true
-       });
-    </script>
-    <noscript><div><img src="https://mc.yandex.ru/watch/53276584" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-    <!-- /Yandex.Metrika counter -->
-
-    <!-- Офис 21 века -->
+        <!-- Офис 21 века -->
     <button id="callme_wrap">
       <div class="callme_image">
         <img src="http://images.trans-s.su/assets/images/phone.svg" />

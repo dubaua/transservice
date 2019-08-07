@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:image" content="http://images.trans-s.su/assets/images/logo1.png" />.
-    <title>Страница в разработке</title>
+    <title>Контакты</title>
     <meta name="description" content="Российская транспортная компания с высоким уровнем надёжности. Оказываем услуги международной перевозки грузов. Контактная информация.">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142834567-1"></script>
@@ -29,7 +29,7 @@
 
     <link rel="stylesheet" href="./assets/styles/style.css">
     <link rel="stylesheet" href="./assets/styles/styles.css">
-    <link href="./assets/images/favicon.ico" rel="shortcut icon" type=image/vnd.microsoft.icon />
+    <link href="/assets/images/favicon.ico" rel="shortcut icon" type=image/vnd.microsoft.icon />
 
 </head>
 <body>
@@ -343,7 +343,7 @@
                 <li class="title__item">
                     <div class="title__content">
                         <h3 class="title__title-about">
-                            Страница в разработке!
+                            Контакты
                         </h3>
                         <div class="title__strip">
 
@@ -354,19 +354,43 @@
         </div>
     </section>
 
+    <section class="contacts">
+      <div class="wrapp">
+        <div class="contacts__text">
+          <!-- <h2 class="text__title">Контакты</h2> -->
+          <p class="text__text">
+            Наш адрес: 454020, г. Челябинск, ул. Энтузиастов, д.30, оф.405 - 406 <br><br>
+
+            Время работы офиса с 09.00 - 18.00 <br><br>
+
+
+            Многоканальный телефон: <a href="tel:+7 (351) 700-02-04">+7 (351) 700-02-04</a> <br><br>
+
+            E-mail: <a href="mailto:info@trans-s.su">info@trans-s.su</a>
+          </p>
+        </div>
+
+        <div class="contacts__map">
+          <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Y7St10jU2NVSqSHPFBNKw-6JBBmvwX0z" width="100%" height="380"></iframe>
+				</div>
+      </div>
+    
+    </section>
+		<div id="form" style="padding-bottom: 90px;" class="form__line-watch"></div>
+
     <section class="form">
         <div class="form__container">
-            <form action="info@trans-s.su" class="form__content" method="post">
+            <form action="./response.php" class="form__content" method="POST">
                 <h3 class="form__title">Свяжитесь с нами</h3>
                 <div class="form__input-fields-wrapper">
                     <div class="form__input-fields">
-                        <input class="form__field form__name" type="text" placeholder="Ваше имя: ">
-                        <input class="form__field form__mail" type="text" placeholder="Ваш e-mail: ">
-                        <input class="form__field form__tel" type="text" placeholder="Ваш номер телефона: ">
+                        <input class="form__field form__name" type="text" name="name" placeholder="Ваше имя: ">
+                        <input class="form__field form__mail" type="text" name="email" placeholder="Ваш e-mail: ">
+                        <input class="form__field form__tel" type="text" name="phone" placeholder="Ваш номер телефона: ">
                     </div>
 
                     <div class="form__input-fields">
-                    <textarea class="form__field form__field--textarea" type="text"
+                    <textarea class="form__field form__field--textarea form__textarea" name="message" type="text"
                               placeholder="Чем мы можем Вам помочь?"></textarea>
                     </div>
                 </div>
@@ -376,7 +400,7 @@
                     <a href="./politic.html" class="form__accept">Я согласен с условиями пользовательского соглашения </a>
                 </div>
 
-                <input class="form__button" type="button" placeholder="Jnghfdbnm" disabled value="Отправить">
+                <button class="form__button" type="submit">Отправить</button>
             </form>
 
             <div class="form__message">Ваше сообщение отправлено</div>
@@ -416,22 +440,22 @@
                 </li>
 
                 <li class="footer__item">
-                    <a href="./services/auto.html" class="footer__link">Автомобильные грузоперевозки</a>
+                    <a href="/services/auto.html" class="footer__link">Автомобильные грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./services/train.html" class="footer__link">Железнодорожные  грузоперевозки</a>
+                    <a href="/services/train.html" class="footer__link">Железнодорожные  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./services/ship.html" class="footer__link">Морские  грузоперевозки</a>
+                    <a href="/services/ship.html" class="footer__link">Морские  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./services/multimodal.html" class="footer__link">Мультимодальные  грузоперевозки</a>
+                    <a href="/services/multimodal.html" class="footer__link">Мультимодальные  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./services/oversized.html" class="footer__link">Негабаритные  грузоперевозки</a>
+                    <a href="/services/oversized.html" class="footer__link">Негабаритные  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./services/customs.html" class="footer__link">Таможенное оформление</a>
+                    <a href="/services/customs.html" class="footer__link">Таможенное оформление</a>
                 </li>
             </ul>
 
@@ -440,19 +464,19 @@
                     <h4 class="footer__title"  > Справочная информация</h4>
                 </li>
                 <li class="footer__item">
-                    <a href="./inform/incotermes.html" class="footer__link">Инкотермс</a>
+                    <a href="/inform/incotermes.html" class="footer__link">Инкотермс</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./inform/type-trailers.html" class="footer__link">Виды грузовых автомобильных прицепов и полуприцепов</a>
+                    <a href="/inform/type-trailers.html" class="footer__link">Виды грузовых автомобильных прицепов и полуприцепов</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./inform/iron-mobile.html" class="footer__link">Виды подвижного железнодорожного состава</a>
+                    <a href="/inform/iron-mobile.html" class="footer__link">Виды подвижного железнодорожного состава</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./inform/iron-cont.html" class="footer__link">Виды железнодорожных контейнеров</a>
+                    <a href="/inform/iron-cont.html" class="footer__link">Виды железнодорожных контейнеров</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./inform/ship-cont.html" class="footer__link">Виды морских контейнеров</a>
+                    <a href="/inform/ship-cont.html" class="footer__link">Виды морских контейнеров</a>
                 </li>
             </ul>
 

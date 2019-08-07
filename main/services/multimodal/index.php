@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Негабаритные грузоперевозки</title>
-    <meta name="description" content="Негабаритные грузоперевозки по всей России. Доставка грузов любого объема. Международные перевозки негабаритных грузов разным транспортом.">
+    <title>Мультимодальные грузоперевозки</title>
+    <meta name="description" content="Мультимодальные транспортные перевозки по всей России. Доставка грузов любого объема. Международные перевозки грузов разным транспортом.">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142834567-1"></script>
 <script>
@@ -29,7 +29,8 @@
     <link rel="stylesheet" href="../assets/styles/page/services-blog.css">
 
     <link rel="stylesheet" href="../assets/styles/styles.css">
-    <link href="../assets/images/favicon.ico" rel="shortcut icon" type=image/vnd.microsoft.icon />
+
+    <link href="./assets/images/favicon.ico" rel="shortcut icon" type=image/vnd.microsoft.icon />
 
 </head>
 <body>
@@ -335,7 +336,7 @@
                 </h3>
 
                 <h3 class="breadcrumbs__active">
-                    Негабаритные грузоперевозки
+                    Мультимодальные грузоперевозки
                 </h3>
             </div>
         </div> -->
@@ -347,7 +348,7 @@
                 <li class="services__item serviceOneList">
                     <div class="services__content">
                         <h3 class="services__title">
-                            Негабаритные грузоперевозки
+                            Мультимодальные грузоперевозки
                         </h3>
                         <div class="services__strip">
 
@@ -377,7 +378,7 @@
                 </li>
                 <li class="services__item serviceOneList">
                     <p class="services__text">
-                      Компания «ТРАНССЕРВИС» оказывает услуги по перевозке негабаритных грузов следующими видами транспорта:
+                      Компания «ТРАНССЕРВИС» оказывает полный комплекс услуг, связанных с мультимодальной перевозкой грузов автомобильным, железнодорожным и морским транспортом, включая:
                     </p>
                 </li>
             </ul>
@@ -389,44 +390,103 @@
         <div class="auto-cards__container">
             <div class="auto-cards__list-wrapper">
                 <ul class="auto-cards__list">
+
+
                     <li class="auto-cards__item">
                         <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/auto.jpg" alt="Автомомобильный транспорт" title="Автомомобильный транспорт" class="auto-cards__picture">
+                            <img src="http://images.trans-s.su/assets/images/auto/logistic-cheme.jpg" alt="Подбор оптимальной логистической схемы" title='Подбор оптимальной логистической схемы' class="auto-cards__picture">
                         </div>
 
                         <div class="auto-cards__content">
                             <h4 class="auto-cards__title">
-                                Автомомобильный транспорт
+                                Подбор оптимальной логистической схемы
                             </h4>
                         </div>
                     </li>
 
                     <li class="auto-cards__item">
                         <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/train.jpg" alt="Железнодорожный транспорт" title="Железнодорожный транспорт" class="auto-cards__picture">
+                            <img src="http://images.trans-s.su/assets/images/auto/chartering.jpg" alt="Фрахтование судов" title="Фрахтование судов" class="auto-cards__picture">
                         </div>
 
                         <div class="auto-cards__content">
                             <h4 class="auto-cards__title">
-                                Железнодорожный транспорт
+                                Фрахтование судов
                             </h4>
                         </div>
                     </li>
 
                     <li class="auto-cards__item">
                         <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/ship.jpg" alt="Морской транспорт" title="Морской транспорт" class="auto-cards__picture">
+                            <img src="http://images.trans-s.su/assets/images/auto/delivery.jpg" alt="Доставка грузов в порты" title="Доставка грузов в порты" class="auto-cards__picture">
                         </div>
 
                         <div class="auto-cards__content">
                             <h4 class="auto-cards__title">
-                                Морской транспорт
+                                Доставка грузов в порты
                             </h4>
                         </div>
                     </li>
 
+                    <li class="auto-cards__item">
+                        <div class="auto-cards__picture-wrapper">
+                            <img src="http://images.trans-s.su/assets/images/auto/railways-area.jpg" alt="Доставка грузов на железнодорожные площадки" title="Доставка грузов на железнодорожные площадки" class="auto-cards__picture">
+                        </div>
 
+                        <div class="auto-cards__content">
+                            <h4 class="auto-cards__title">
+                                Доставка грузов на железнодорожные площадки
+                            </h4>
+                        </div>
+                    </li>
 
+                    <li class="auto-cards__item">
+                        <div class="auto-cards__picture-wrapper">
+                            <img src="http://images.trans-s.su/assets/images/auto/loading.jpg" alt="Организация погрузки при смене вида транспорта" title="Организация погрузки при смене вида транспорта" class="auto-cards__picture">
+                        </div>
+
+                        <div class="auto-cards__content">
+                            <h4 class="auto-cards__title">
+                               Организация погрузки при смене вида транспорта
+                            </h4>
+                        </div>
+                    </li>
+
+                    <li class="auto-cards__item">
+                        <div class="auto-cards__picture-wrapper">
+                            <img src="http://images.trans-s.su/assets/images/auto/temporary-storage.jpg" alt="Организация временного хранения" title="Организация временного хранения" class="auto-cards__picture">
+                        </div>
+
+                        <div class="auto-cards__content">
+                            <h4 class="auto-cards__title">
+                                Организация временного хранения
+                            </h4>
+                        </div>
+                    </li>
+
+                    <li class="auto-cards__item">
+                        <div class="auto-cards__picture-wrapper">
+                            <img src="http://images.trans-s.su/assets/images/auto/tracking.jpg" alt="Отслеживание грузов" title="Отслеживание грузов" class="auto-cards__picture">
+                        </div>
+
+                        <div class="auto-cards__content">
+                            <h4 class="auto-cards__title">
+                                Отслеживание грузов
+                            </h4>
+                        </div>
+                    </li>
+
+                    <li class="auto-cards__item">
+                        <div class="auto-cards__picture-wrapper">
+                            <img src="http://images.trans-s.su/assets/images/auto/paperwork.jpg" alt="Оформление полного пакета документов" title="Оформление полного пакета документов" class="auto-cards__picture">
+                        </div>
+
+                        <div class="auto-cards__content">
+                            <h4 class="auto-cards__title">
+                                Оформление полного пакета документов
+                            </h4>
+                        </div>
+                    </li>
 
                 </ul>
             </div>
@@ -654,7 +714,7 @@
     <script src="../assets/javascript/form.js"></script>
 		<script src="https://api-maps.yandex.ru/2.0/?load=package.full&lang=ru-RU" type="text/javascript"></script>
 		<script src="../assets/javascript/jquery.cookie.js"></script>
-<!-- Yandex.Metrika counter -->
+    <!-- Yandex.Metrika counter -->
     <script type="text/javascript" >
        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
@@ -685,8 +745,8 @@
     <noscript><div><img src="https://mc.yandex.ru/watch/53276584" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!-- /Yandex.Metrika counter -->
 
-    <!-- Офис 21 века -->
 
+    <!-- Офис 21 века -->
     <button id="callme_wrap">
       <div class="callme_image">
         <img src="http://images.trans-s.su/assets/images/phone.svg" />

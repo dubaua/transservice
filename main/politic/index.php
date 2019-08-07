@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:image" content="http://images.trans-s.su/assets/images/logo1.png" />.
-    <title>О компании</title>
-    <meta name="description" content="Транспортная компания Транс Сервис – международные перевозки и грузоперевозки по всей России. Все виды транспорта. Логистика. Отслеживание.">
+    <title>Пользовательское соглашение</title>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142834567-1"></script>
 <script>
@@ -25,17 +24,17 @@
     <link rel="stylesheet" href="./assets/styles/components/nav.css">
     <link rel="stylesheet" href="./assets/styles/components/form.css">
     <link rel="stylesheet" href="./assets/styles/components/footer.css">
-    <link rel="stylesheet" href="./assets/styles/page/about.css">
+    <link rel="stylesheet" href="./assets/styles/about.css">
+    <link rel="stylesheet" href="./assets/styles/page/politic.css">
 
     <link rel="stylesheet" href="./assets/styles/style.css">
     <link rel="stylesheet" href="./assets/styles/styles.css">
-    <link href="./assets/images/favicon.ico" rel="shortcut icon" type=image/vnd.microsoft.icon />
+    <link href="/assets/images/favicon.ico" rel="shortcut icon" type=image/vnd.microsoft.icon />
 
 </head>
 <body>
 
 <div class="app">
-
 
     <header class="header">
         <div class="header__container header__container-home">
@@ -324,7 +323,6 @@
 				</div>
 		</div>
 
-
     <section class="breadcrumbs">
         <!-- <div class="breadcrumbs__container">
             <div class="breadcrumbs__content">
@@ -333,7 +331,7 @@
                 </h3>
 
                 <h3 class="breadcrumbs__active">
-                    О компании
+                    Пользовательское соглашение
                 </h3>
             </div>
         </div> -->
@@ -345,7 +343,7 @@
                 <li class="title__item">
                     <div class="title__content">
                         <h3 class="title__title-about">
-                            О компании
+                            Пользовательское соглашение
                         </h3>
                         <div class="title__strip">
 
@@ -356,319 +354,71 @@
         </div>
     </section>
 
-    <section class="about">
-      <p class="about__text">
+    <section class="politic">
+      <div class="politic__text">
+        <p>Мы считаем своим долгом защищать конфиденциальность личной информации посетителей сайта, которые могут быть идентифицированы каким-либо образом и которые посещают сайт и пользуются его услугами (далее — «Сервисы»). Условие конфиденциальности распространяется на всю ту информацию, которую наш сайт может получить о пользователе во время его пребывания и которая в принципе может быть соотнесена с данным конкретным пользователем. Это соглашение распространяется также и на сайты компаний партнеров, с которыми у нас существуют соответствующие обязательственные отношения (далее — «Партнеры»). <br><br></p>
 
-        Компания «ТРАНССЕРВИС» оказывает услуги по перевозке грузов автомобильным, железнодорожным и морским транспортом, как в пределах России, так и в международных направлениях включая страхование и таможенное оформление. <br><br>
+        <p><b>Получение и использование персональной информации</b><br><br>
 
-        Мы разрабатываем и используем логистические решения, которые созданы под конкретные потребности клиента и сочетают надежность и конкурентоспособность на протяжении всей цепочки поставок для решения любых бизнес-задач.<br><br>
+        Наш сайт получает персональную информацию о Вас, когда Вы регистрируетесь, когда Вы пользуетесь некоторыми нашими службами или продуктами, когда Вы находитесь на сайте, а также в случае использования услуг наших партнеров.<br><br>
 
-        Партнерские отношения с ведущими автомобильными, железнодорожными и морскими перевозчиками дают нашей компании возможность осуществлять перевозки на межконтинентальные расстояния без ограничения по объему груза и видам транспортных средств.<br><br>
+        Также мы можем собирать данные о вас в том случае, когда вы, согласившись с данной «Политикой конфиденциальности» на нашем сайте, не завершили процесс регистрации до конца. Типы персональных данных, которые могут быть собраны на этом сайте в ходе процесса регистрации, а также совершения заказов и получения любых сервисов и услуг, могут включать ваше имя, отчество и фамилию, почтовый адрес, e-mail, номер телефона. Кроме того мы можем запросить информацию о ваших привычках, интересах, типах продуктов и сервисов, предлагаемых сторонними партнерами нашего сайта, которые мы можем также предложить вам на нашем сайте.<br><br>
 
-        Мы заинтересованы в долгосрочных партнерских отношениях, основанных на уважении, доверии и взаимопомощи, поэтому индивидуально подходим к решению задач каждого клиента.<br><br>
+        Любая ваша персональная информация, полученная на сайте, остается вашей собственностью. Тем не менее, отправляя свои персональные данные нам, вы доверяете нам право использовать вашу персональную информацию для любого законного использования, включая, без ограничений:<br><br></p>
 
-        <img src="http://images.trans-s.su/assets/images/about.png" width="500" height="261" class="pull-right" alt="Изображение" title="Изображение">
-      </p>
+        <ul class="text__list">
+          <li>Совершение заказа продукта или услуги.</li>
+          <li>Передача вашей персональной информации третьей стороне в целях совершения заказа продукта или услуги, предоставляемой третьей стороной, на нашем сайте.</li>
+          <li>Показ рекламных предложений средствами телемаркетинга, почтового маркетинга, всплывающих окон, баннерной рекламы.</li>
+          <li>Отслеживание исполнения нашего «Пользовательского соглашения».</li>
+          <li>Для проверки, подписки, отписки, улучшения контента и целей получения обратной связи.</li>
+        </ul><br><br>
+
+        <p>Вы соглашаетесь, что мы можем связаться с вами в любое время по вопросу обновлений и (или) любой другой информации, которую мы сочтем связанной с последующим использованием нашего сайта вами. Мы также оставляем за собой право передать информацию о настоящем или прошлом пользователе в случае, если мы сочтем, что наш сайт был использован данным пользователем для совершения незаконной деятельности.<br><br>
+
+        Мы можем предоставлять сторонним партнерам нашего Сайта информацию о пользователях, которые ранее получали таргетированные рекламные кампании, с целью формирования будущих рекламных кампаний и обновления информации о посетителе, используемой для получения статистических данных.<br><br></p>
+
+        <p><b>Сторонние ссылки</b><br><br>
+
+        Мы не несем ответственности за точность, конфиденциальность и пользовательские соглашения любых сторонних партнеров, которые могут рекламироваться на нашем сайте. Любые сторонние рекламные материалы, размещаемые на нашем сайте, принадлежащие сторонним рекламодателям, никак не связаны с нашим сайтом.<br><br>
+
+        Наш сайт автоматически получает и записывает в серверные логи техническую информацию из Вашего браузера: IP адрес, cookie, запрашиваемые продукты и посещенные страницы. Данная информация записывается с целью повышения качества обслуживания пользователей нашего сайта. Мы также спрашиваем адрес электронной почты (e-mail), который нужен для входа в систему, быстрого и безопасного восстановления пароля или для того, чтобы администрация нашего сайта могла связаться с вами как в экстренных случаях, так и для ведения процесса деловой коммуникации в случае оказания услуг. Этот адрес никогда не будет использоваться ни для каких рассылок, кроме тех, на которые Вы явно подпишетесь.<br><br></p>
+
+        <p><b>Ваш выбор использования информации</b><br><br>
+
+        В ходе процесса регистрации и (или) когда вы отправляете персональные данные нам на нашем Сайте, вы имеете возможность согласиться или не согласиться с предложением передать ваши персональные данные нашим сторонним партнерам с целью осуществления с вами маркетинговых коммуникаций. Если с вами связываются представители любых этих сторонних партнеров, вы должны уведомить их лично о ваших предпочтениях по использованию ваших персональных данных. Несмотря на все выше сказанное, мы можем сотрудничать со сторонними партнерами, кто может (самостоятельно или через их партнеров) размещать или считывать уникальные файлы cookie в вашем веб-браузере. Эти cookies открывают доступ к показу более персонализированной рекламы, контента или сервисов, предлагаемых вам. Для обработки таких cookies мы можем передавать программный уникальный зашифрованный или хэшированный (не читаемый человеком) идентификатор, связанный с вашим email-адресом, онлайн-рекламодателям, с которыми мы сотрудничаем, которые могут разместить cookies на вашем компьютере. Никакая персональная информация, по которой вас можно идентифицировать, не ассоциирована с этими файлами cookies. Отказаться от размещения cookies на вашем компьютере можно с помощью настроек вашего браузера.<br><br></p>
+
+        <p><b>Неидентифицирующая персональная информация</b><br><br>
+
+        Мы оставляем за собой право собирать неидентифицирующую персональную информацию о вас, когда вы посещаете разные страницы нашего Сайта. Эта неидентифицирующая персональная информация включает в себя без каких-либо ограничений: используемый вами тип браузера, ваш IP-адрес, тип операционной системы, которую вы используете, а также доменное имя вашего провайдера интернет-услуг.<br><br>
+
+        Мы используем эту неидентифицирующую персональную информацию в целях улучшения внешнего вида и контента нашего Сайта, а также для получения возможности персонализировать вашу работу в сети Интернет. Мы также можем использовать эту информацию для анализа использования Сайта, также как и для предложения вам продуктов и сервисов. Мы также оставляем за собой право использовать агрегированные или сгруппированные данные о наших посетителях для не запрещенных законом целей. Агрегированные или сгруппированные данные это информация, которая описывает демографию, использование и (или) характеристики наших пользователей как обобщенной группы. Посещая и предоставляя нам ваши персональные данные вы тем самым позволяете нам предоставлять такую информацию сторонним партнерам.<br><br>
+
+        Мы также можем использовать cookies для улучшения использования нашего сайта. Cookies — это текстовые файлы, которые мы сохраняем в вашем компьютерном браузере для хранения ваших предпочтений и настроек. Мы используем cookies для понимания, как используется сайт, для персонализации вашей работы в Сети Интернет и для улучшения контента и предложений на нашем Сайте.<br><br></p>
+
+        <p><b>Несовершеннолетние</b><br><br>
+
+        Мы не храним сознательно информацию о несовершеннолетних лицах моложе 18 лет. Никакая информация на данном сайте не должна быть предоставлена несовершеннолетними лицами. Мы предостерегаем родителей и рекомендуем им контролировать работу детей в Интернет.<br><br></p>
+
+        <p><b>Безопасность</b><br><br>
+
+
+        Мы будем стремиться предотвратить несанкционированный доступ к Вашей личной информации, однако, никакая передача данных через интернет, мобильное устройство или через беспроводное устройство не могут гарантировать 100%-ную безопасность. Мы будем продолжать укреплять систему безопасности по мере доступности новых технологий и методов.<br><br>
+
+
+        Мы настоятельно рекомендуем Вам никому не разглашать свой пароль. Если вы забыли свой пароль, мы попросим Вас предоставить документ для подтверждения Вашей личности и отправим Вам письмо, содержащее ссылку, которая позволит Вам сбросить пароль и установить новый.<br><br>
+
+
+        Пожалуйста, помните, что Вы контролируете те данные, которые Вы сообщаете нам при использовании Сервисов. В конечном счете Вы несете ответственность за сохранение в тайне Вашей личности, паролей и/или любой другой личной информации, находящейся в Вашем распоряжении в процессе пользования Сервисами. Всегда будьте осторожны и ответственны в отношении Вашей личной информации. Мы не несем ответственности за, и не можем контролировать использование другими лицами любой информации, которую Вы предоставляете им, и Вы должны соблюдать осторожность в выборе личной информации, которую Вы передаете третьим лицам через Сервисы. Точно так же мы не несем ответственности за содержание личной информации или другой информации, которую Вы получаете от других пользователей через Сервисы, и Вы освобождаете нас от любой ответственности в связи с содержанием любой личной информации или другой информации, которую Вы можете получить, пользуясь Сервисами. Мы не можем гарантировать и мы не несем никакой ответственности за проверку, точность личной информации или другой информации, предоставленной третьими лицами. Вы освобождаете нас от любой ответственности в связи с использованием подобной личной информации или иной информации о других.<br><br></p>
+
+
+        <p><b>Согласие</b><br><br>
+
+
+        Используя данный Сайт и (или) соглашаясь получать информацию средствами e-mail от нас, вы также соглашаетесь с данной «Политикой Конфиденциальности». Мы оставляем за собой право, по нашему личному решению, изменять, добавлять и (или) удалять части данной «Политики Конфиденциальности» в любое время. Все изменения в «Политике Конфиденциальности» вступают в силу незамедлительно с момента их размещения на Сайте. Пожалуйста, периодически проверяйте эту страницу и следите за обновлениями. Продолжение вами использования Сайта и (или) согласие на наши email-коммуникации, которые последуют за публикацией изменений данной «Политики Конфиденциальности» будут подразумевать ваше согласие с любыми и всеми изменениями.</p>
+      </div>
 
     </section>
-
-    <!-- <section class="hero">
-        <div class="hero__container ">
-            <div class="hero__list-wrapper swiper-container">
-                <ul class="hero__list swiper-wrapper">
-                    <li class="hero__item swiper-slide">
-                        <div class="hero__content-wrapper" style="background-image: url(http://images.trans-s.su/assets/images/bg.jpg);">
-                            <div class="hero__content">
-                                <h1 class="hero__title">
-                                    Грузоперевозки<br>по всей <span class="hero__title-background">России</span>
-                                </h1>
-
-                                <p class="hero__text">
-                                </p>
-                            </div>
-                        </div>
-                    </li>
-
-                    <li class="hero__item swiper-slide">
-                        <div class="hero__content-wrapper" style="background-image: url(http://images.trans-s.su/assets/images/banners/banner_1.jpg);">
-                            <div class="hero__content">
-                                <h1 class="hero__title">
-                                    <span class="hero__title-background">Международные</span><br>грузоперевозки
-                                </h1>
-
-                                <p class="hero__text">
-                                </p>
-                            </div>
-                        </div>
-                    </li>
-
-                    <li class="hero__item swiper-slide">
-                        <div class="hero__content-wrapper" style="background-image: url(http://images.trans-s.su/assets/images/banners/banner_2.jpg);">
-                            <div class="hero__content">
-                                <h1 class="hero__title">
-                                    <span class="hero__title-background">Мультимодальные</span><br>перевозки
-                                </h1>
-
-                                <p class="hero__text">
-                                    
-                                </p>
-                            </div>
-                        </div>
-                    </li>
-
-                    <li class="hero__item swiper-slide">
-                        <div class="hero__content-wrapper" style="background-image: url(http://images.trans-s.su/assets/images/banners/banner_3.jpg);">
-                            <div class="hero__content">
-                                <h1 class="hero__title">
-                                    <span class="hero__title-background">Негабаритные</span><br>перевозки
-                                </h1>
-
-                                <p class="hero__text">
-                                    
-                                </p>
-                            </div>
-                        </div>
-                    </li>
-
-                    <li class="hero__item swiper-slide">
-                        <div class="hero__content-wrapper" style="background-image: url(http://images.trans-s.su/assets/images/banners/banner_4.jpg);">
-                            <div class="hero__content">
-                                <h1 class="hero__title">
-                                    <span class="hero__title-background">Таможенное</span><br>оформление
-                                </h1>
-
-                                <p class="hero__text">
-                                    
-                                </p>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-
-            <div class="hero__button-next swiper-button-next"></div>
-            <div class="hero__button-prev swiper-button-prev"></div>
-        </div>
-    </section> -->
-
-
-    <!-- <section class="cargo-cards">
-        <div class="cargo-cards__container">
-            <div class="cargo-cards__list-wrapper">
-                <ul class="cargo-cards__list">
-                    <li class="cargo-cards__item">
-                        <a href="./services/auto.html" class="cargo-cards__link">
-                            <div class="cargo-cards__content-wrapper">
-                                <div class="cargo-cards__content">
-                                    <img src="http://images.trans-s.su/assets/images/Auto.svg" alt="Изображение" class="cargo-cards__picture">
-
-                                </div>
-
-                                <h3 class="cargo-cards__title">Автомобильные грузоперевозки</h3>
-                            </div>
-
-                        </a>
-                    </li>
-
-                    <li class="cargo-cards__item">
-                        <a href="./services/train.html" class="cargo-cards__link">
-                            <div class="cargo-cards__content-wrapper">
-                                <div class="cargo-cards__content">
-                                    <img src="http://images.trans-s.su/assets/images/Train.svg" alt="Изображение" class="cargo-cards__picture">
-                                </div>
-                                <h3 class="cargo-cards__title">Железнодорожные грузоперевозки</h3>
-                            </div>
-                        </a>
-                    </li>
-
-                    <li class="cargo-cards__item">
-                        <a href="./services/ship.html" class="cargo-cards__link">
-                            <div class="cargo-cards__content-wrapper">
-                                <div class="cargo-cards__content">
-                                    <img src="http://images.trans-s.su/assets/images/Ship.svg" alt="Изображение" class="cargo-cards__picture">
-
-                                </div>
-                                <h3 class="cargo-cards__title">Морские грузоперевозки</h3>
-                            </div>
-
-
-                        </a>
-                    </li>
-
-                    <li class="cargo-cards__item">
-                        <a href="./services/multimodal.html" class="cargo-cards__link">
-                            <div class="cargo-cards__content-wrapper">
-                                <div class="cargo-cards__content">
-                                    <img src="http://images.trans-s.su/assets/images/Container.svg" alt="Изображение" class="cargo-cards__picture">
-                                </div>
-
-                                <h3 class="cargo-cards__title">Мультимодальные грузоперевозки</h3>
-                            </div>
-                        </a>
-                    </li>
-
-                    <li class="cargo-cards__item">
-                        <a href="./services/oversized.html" class="cargo-cards__link">
-                            <div class="cargo-cards__content-wrapper">
-                                <div class="cargo-cards__content">
-                                    <img src="http://images.trans-s.su/assets/images/Loader.svg" alt="Изображение" class="cargo-cards__picture">
-                                </div>
-
-                                <h3 class="cargo-cards__title">Негабаритные грузоперевозки</h3>
-                            </div>
-                        </a>
-                    </li>
-
-                    <li class="cargo-cards__item">
-                        <a href="./services/customs.html" class="cargo-cards__link">
-                            <div class="cargo-cards__content-wrapper">
-                                <div class="cargo-cards__content">
-                                    <img src="http://images.trans-s.su/assets/images/Documents.svg" alt="Изображение" class="cargo-cards__picture">
-                                </div>
-
-                                <h3 class="cargo-cards__title">Таможенное оформление</h3>
-                            </div>
-                        </a>
-                    </li>
-
-                </ul>
-            </div>
-        </div>
-    </section> -->
-
-
-    <!-- <section class="services">
-        <div class="services__container">
-            <ul class="services__list">
-                <li class="services__item">
-                    <div class="services__content">
-                        <h3 class="services__title">
-                            Основные услуги
-                        </h3>
-                        <div class="services__strip">
-
-                        </div>
-                        <p class="services__text">
-                            Просто текст, который описывает перечень услуг компании отражает содержания блоков услуг расположенных ниже
-                        </p>
-                    </div>
-                </li>
-
-                <li class="services__item">
-                    <div class="services__partners">
-                        <h4 class="services__partners-number">
-                            >350
-                        </h4>
-                        <p class="services__partners-text">
-                            Компаний партнеров
-                        </p>
-                    </div>
-
-                    <div class="services__partners">
-                        <h4 class="services__partners-number">
-                            5 мл.
-                        </h4>
-                        <p class="services__partners-text">
-                            Доставленных грузов
-                        </p>
-                    </div>
-
-                    <div class="services__partners">
-                        <h4 class="services__partners-number">
-                            >150
-                        </h4>
-                        <p class="services__partners-text">
-                            Клиентов
-                        </p>
-                    </div>
-
-                    <div class="services__partners">
-                        <h4 class="services__partners-number">
-                            5 мл.
-                        </h4>
-                        <p class="services__partners-text">
-                            Доставленных грузов
-                        </p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    </section> -->
-
-
-    <<!-- section class="services">
-        <div class="services__container">
-            <ul class="services__list">
-                <li class="services__item">
-                    <div class="services__content">
-                        <h3 class="services__title">
-                            10 видов транспорта
-                        </h3>
-                        <div class="services__strip">
-
-                        </div>
-                        <p class="services__text">
-                            Просто текст, который описывает перечень услуг компании отражает содержания блоков услуг расположенных ниже
-                        </p>
-                    </div>
-                </li>
-
-                <li class="services__item">
-                    <div class="services__content">
-                        <h3 class="services__title">
-                            +20 стран для доставки
-                        </h3>
-                        <div class="services__strip">
-
-                        </div>
-                        <p class="services__text">
-                            Просто текст, который описывает перечень услуг компании отражает содержания блоков услуг расположенных ниже
-                        </p>
-                    </div>
-                </li>
-
-                <li class="services__item">
-                    <div class="services__content">
-                        <h3 class="services__title">
-                            Будем рады видеть Вас в числе наших клиентов!
-                        </h3>
-                        <div class="services__strip">
-
-                        </div>
-                        <p class="services__text">
-                            Просто текст, который описывает перечень услуг компании отражает содержания блоков услуг расположенных ниже
-                        </p>
-                    </div>
-                </li>
-
-                <li class="services__item">
-                    <div class="services__content">
-                       <div class="services__picture-wrapper">
-                           <img src="http://images.trans-s.su/assets/images/map.png" alt="Изображение" class="services__picture">
-                       </div>
-                    </div>
-                </li>
-
-
-
-
-            </ul>
-        </div>
-    </section> -->
-
-    <!--<section class="customs-clearance">-->
-        <!--<div class="custom-clearance__container">-->
-            <!--<div class="custom-clearance__content">-->
-                <!--<p class="custom-clearance__text">-->
-                    <!--Дополнительно мы имеем возможность таможенного оформления и страхования всех отправляемых грузов.-->
-                <!--</p>-->
-            <!--</div>-->
-
-            <!--<div class="custom-clearance__picture-wrapper">-->
-                <!--<img class="custom-clearance__picture" src="http://images.trans-s.su/assets/images/Docs.png" alt="Изображение" >-->
-            <!--</div>-->
-        <!--</div>-->
-    <!--</section>-->
 
     <div id="form" class="form__line-watch"></div>
     <section class="form">
@@ -733,22 +483,22 @@
                 </li>
 
                 <li class="footer__item">
-                    <a href="/services/auto.html" class="footer__link">Автомобильные грузоперевозки</a>
+                    <a href="./services/auto.html" class="footer__link">Автомобильные грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="/services/train.html" class="footer__link">Железнодорожные  грузоперевозки</a>
+                    <a href="./services/train.html" class="footer__link">Железнодорожные  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="/services/ship.html" class="footer__link">Морские  грузоперевозки</a>
+                    <a href="./services/ship.html" class="footer__link">Морские  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="/services/multimodal.html" class="footer__link">Мультимодальные  грузоперевозки</a>
+                    <a href="./services/multimodal.html" class="footer__link">Мультимодальные  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="/services/oversized.html" class="footer__link">Негабаритные  грузоперевозки</a>
+                    <a href="./services/oversized.html" class="footer__link">Негабаритные  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="/services/customs.html" class="footer__link">Таможенное оформление</a>
+                    <a href="./services/customs.html" class="footer__link">Таможенное оформление</a>
                 </li>
             </ul>
 
@@ -757,19 +507,19 @@
                     <h4 class="footer__title"  > Справочная информация</h4>
                 </li>
                 <li class="footer__item">
-                    <a href="/inform/incotermes.html" class="footer__link">Инкотермс</a>
+                    <a href="./inform/incotermes.html" class="footer__link">Инкотермс</a>
                 </li>
                 <li class="footer__item">
-                    <a href="/inform/type-trailers.html" class="footer__link">Виды грузовых автомобильных прицепов и полуприцепов</a>
+                    <a href="./inform/type-trailers.html" class="footer__link">Виды грузовых автомобильных прицепов и полуприцепов</a>
                 </li>
                 <li class="footer__item">
-                    <a href="/inform/iron-mobile.html" class="footer__link">Виды подвижного железнодорожного состава</a>
+                    <a href="./inform/iron-mobile.html" class="footer__link">Виды подвижного железнодорожного состава</a>
                 </li>
                 <li class="footer__item">
-                    <a href="/inform/iron-cont.html" class="footer__link">Виды железнодорожных контейнеров</a>
+                    <a href="./inform/iron-cont.html" class="footer__link">Виды железнодорожных контейнеров</a>
                 </li>
                 <li class="footer__item">
-                    <a href="/inform/ship-cont.html" class="footer__link">Виды морских контейнеров</a>
+                    <a href="./inform/ship-cont.html" class="footer__link">Виды морских контейнеров</a>
                 </li>
             </ul>
 
@@ -830,7 +580,7 @@
             webvisor:true
        });
     </script>
-    <noscript><div><img src="https://mc.yandex.ru/watch/50961584" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <noscript><div><img src="https://mc.yandex.ru/watch/50961584" style="position:absolute; left:-9999px;" alt="Изображение" /></div></noscript>
     <!-- /Yandex.Metrika counter -->
     <!-- Yandex.Metrika counter -->
     <script type="text/javascript" >
@@ -847,15 +597,15 @@
     </script>
     <noscript><div><img src="https://mc.yandex.ru/watch/53276584" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!-- /Yandex.Metrika counter -->
-
+  
     <!-- Офис 21 века -->
+
     <button id="callme_wrap">
       <div class="callme_image">
         <img src="http://images.trans-s.su/assets/images/phone.svg" />
       </div>
       <div class="callme_btn">Заказать звонок</div>
     </button>
-
     <link rel="stylesheet" href="https://trans74.of21.net/assets/callback.css" />
     <script src="https://trans74.of21.net/api/js?token=4b238a8e40da814492dface036e73472" type="text/javascript" charset="utf-8"></script>
 </div>

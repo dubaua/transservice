@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Мультимодальные грузоперевозки</title>
-    <meta name="description" content="Мультимодальные транспортные перевозки по всей России. Доставка грузов любого объема. Международные перевозки грузов разным транспортом.">
+    <title>Морские грузоперевозки</title>
+    <meta name="description" content="Морские контейнерные грузоперевозки по всей России. Доставка грузов любого объема. Международные перевозки грузов морским транспортом.">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142834567-1"></script>
 <script>
@@ -29,8 +29,7 @@
     <link rel="stylesheet" href="../assets/styles/page/services-blog.css">
 
     <link rel="stylesheet" href="../assets/styles/styles.css">
-
-    <link href="../assets/images/favicon.ico" rel="shortcut icon" type=image/vnd.microsoft.icon />
+    <link href="./assets/images/favicon.ico" rel="shortcut icon" type=image/vnd.microsoft.icon />
 
 </head>
 <body>
@@ -336,7 +335,7 @@
                 </h3>
 
                 <h3 class="breadcrumbs__active">
-                    Мультимодальные грузоперевозки
+                    Морские грузоперевозки
                 </h3>
             </div>
         </div> -->
@@ -348,7 +347,7 @@
                 <li class="services__item serviceOneList">
                     <div class="services__content">
                         <h3 class="services__title">
-                            Мультимодальные грузоперевозки
+                            Морские грузоперевозки
                         </h3>
                         <div class="services__strip">
 
@@ -378,7 +377,7 @@
                 </li>
                 <li class="services__item serviceOneList">
                     <p class="services__text">
-                      Компания «ТРАНССЕРВИС» оказывает полный комплекс услуг, связанных с мультимодальной перевозкой грузов автомобильным, железнодорожным и морским транспортом, включая:
+                      Компания «ТРАНССЕРВИС» оказывает полный комплекс услуг, связанных с перевозкой грузов морским транспортом, включая:
                     </p>
                 </li>
             </ul>
@@ -391,10 +390,9 @@
             <div class="auto-cards__list-wrapper">
                 <ul class="auto-cards__list">
 
-
                     <li class="auto-cards__item">
                         <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/logistic-cheme.jpg" alt="Подбор оптимальной логистической схемы" title='Подбор оптимальной логистической схемы' class="auto-cards__picture">
+                            <img src="http://images.trans-s.su/assets/images/auto/logistic-cheme.jpg" alt="Подбор оптимальной логистической схемы" title="Подбор оптимальной логистической схемы" class="auto-cards__picture">
                         </div>
 
                         <div class="auto-cards__content">
@@ -403,7 +401,7 @@
                             </h4>
                         </div>
                     </li>
-
+                    
                     <li class="auto-cards__item">
                         <div class="auto-cards__picture-wrapper">
                             <img src="http://images.trans-s.su/assets/images/auto/chartering.jpg" alt="Фрахтование судов" title="Фрахтование судов" class="auto-cards__picture">
@@ -424,42 +422,6 @@
                         <div class="auto-cards__content">
                             <h4 class="auto-cards__title">
                                 Доставка грузов в порты
-                            </h4>
-                        </div>
-                    </li>
-
-                    <li class="auto-cards__item">
-                        <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/railways-area.jpg" alt="Доставка грузов на железнодорожные площадки" title="Доставка грузов на железнодорожные площадки" class="auto-cards__picture">
-                        </div>
-
-                        <div class="auto-cards__content">
-                            <h4 class="auto-cards__title">
-                                Доставка грузов на железнодорожные площадки
-                            </h4>
-                        </div>
-                    </li>
-
-                    <li class="auto-cards__item">
-                        <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/loading.jpg" alt="Организация погрузки при смене вида транспорта" title="Организация погрузки при смене вида транспорта" class="auto-cards__picture">
-                        </div>
-
-                        <div class="auto-cards__content">
-                            <h4 class="auto-cards__title">
-                               Организация погрузки при смене вида транспорта
-                            </h4>
-                        </div>
-                    </li>
-
-                    <li class="auto-cards__item">
-                        <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/temporary-storage.jpg" alt="Организация временного хранения" title="Организация временного хранения" class="auto-cards__picture">
-                        </div>
-
-                        <div class="auto-cards__content">
-                            <h4 class="auto-cards__title">
-                                Организация временного хранения
                             </h4>
                         </div>
                     </li>
@@ -487,6 +449,7 @@
                             </h4>
                         </div>
                     </li>
+
 
                 </ul>
             </div>
@@ -570,7 +533,7 @@
     <div id="form" class="form__line-watch"></div>
     <section class="form">
         <div class="form__container">
-            <form action="../response.php" class="form__content" method="POST">
+            <form action="./response.php" class="form__content" method="POST">
                 <h3 class="form__title">Свяжитесь с нами</h3>
                 <div class="form__input-fields-wrapper">
                     <div class="form__input-fields">
@@ -587,7 +550,7 @@
 
                 <div class="form__privacy">
                     <input class="form__checkbox" type="checkbox">
-                    <a href="../politic.html" class="form__accept">Я согласен с условиями пользовательского соглашения </a>
+                    <a href="./politic.html" class="form__accept">Я согласен с условиями пользовательского соглашения </a>
                 </div>
 
                 <input class="form__button" type="submit" value="Отправить">
@@ -596,7 +559,7 @@
             <div class="form__message">Ваше сообщение отправлено</div>
         </div>
     </section>
-
+    
     <footer class="footer">
         <div class="footer__container">
             <ul class="footer__list">
@@ -744,7 +707,6 @@
     </script>
     <noscript><div><img src="https://mc.yandex.ru/watch/53276584" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!-- /Yandex.Metrika counter -->
-
 
     <!-- Офис 21 века -->
     <button id="callme_wrap">

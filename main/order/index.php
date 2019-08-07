@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Железнодорожные грузоперевозки</title>
-    <meta name="description" content="Железнодорожные грузоперевозки по всей России. Доставка грузов любого объема. Международные перевозки грузов железнодорожным транспортом.">
+    <meta property="og:image" content="http://images.trans-s.su/assets/images/logo1.png" />.
+    <title>Оставить заявку</title>
+    <meta name="description" content="Российская транспортная компания с высоким уровнем надёжности. Оказываем услуги международной перевозки грузов. Контактная информация.">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142834567-1"></script>
 <script>
@@ -14,26 +15,25 @@
 
   gtag('config', 'UA-142834567-1');
 </script>
-    <link rel="stylesheet" href="../assets/styles/layout.css">
-    <link rel="stylesheet" href="../assets/styles/normalize.css">
-    <link rel="stylesheet" href="../assets/styles/fonts.css">
-    <link rel="stylesheet" href="../assets/styles/components/header.css">
-    <link rel="stylesheet" href="../assets/styles/components/nav.css">
-    <link rel="stylesheet" href="../assets/styles/components/breadcrumbs.css">
-    <link rel="stylesheet" href="../assets/styles/components/title.css">
-    <link rel="stylesheet" href="../assets/styles/components/auto-cards.css">
-    <link rel="stylesheet" href="../assets/styles/components/services.css">
-    <link rel="stylesheet" href="../assets/styles/components/custom-clearance.css">
-    <link rel="stylesheet" href="../assets/styles/components/form.css">
-    <link rel="stylesheet" href="../assets/styles/components/footer.css">
-    <link rel="stylesheet" href="../assets/styles/page/services-blog.css">
+    <link rel="stylesheet" href="./assets/styles/layout.css">
+    <link rel="stylesheet" href="./assets/styles/normalize.css">
+    <link rel="stylesheet" href="./assets/styles/fonts.css">
+    <link rel="stylesheet" href="./assets/styles/libraries/swiper.css">
+    <link rel="stylesheet" href="./assets/styles/components/breadcrumbs.css">
+    <link rel="stylesheet" href="./assets/styles/components/title.css">
+    <link rel="stylesheet" href="./assets/styles/components/header.css">
+    <link rel="stylesheet" href="./assets/styles/components/nav.css">
+    <link rel="stylesheet" href="./assets/styles/components/form.css">
+    <link rel="stylesheet" href="./assets/styles/components/footer.css">
+    <link rel="stylesheet" href="./assets/styles/components/services.css">
+    <link rel="stylesheet" href="./assets/styles/page/contacts.css">
 
-    <link rel="stylesheet" href="../assets/styles/styles.css">
-    <link href="../assets/images/favicon.ico" rel="shortcut icon" type=image/vnd.microsoft.icon />
+    <link rel="stylesheet" href="./assets/styles/style.css">
+    <link rel="stylesheet" href="./assets/styles/styles.css">
+    <link href="/assets/images/favicon.ico" rel="shortcut icon" type=image/vnd.microsoft.icon />
 
 </head>
 <body>
-
 <div class="app">
 
     <header class="header">
@@ -46,10 +46,10 @@
 															<img src="http://images.trans-s.su/assets/images/Russia.gif" alt="Изображение" class="header__picture">
 													</div>
 													<div class="header__picture-wrapper">
-															<a href="../en/index.html"><img src="http://images.trans-s.su/assets/images/USA.gif" alt="Изображение" class="header__picture"></a>
+															<a href="./en/index.html"><img src="http://images.trans-s.su/assets/images/USA.gif" alt="Изображение" class="header__picture"></a>
 													</div>
 													<div class="header__picture-wrapper">
-															<a href="../ch/index.html"><img src="http://images.trans-s.su/assets/images/china.gif" alt="Изображение" class="header__picture"></a>
+															<a href="./ch/index.html"><img src="http://images.trans-s.su/assets/images/china.gif" alt="Изображение" class="header__picture"></a>
 													</div>
 											</div>
 									</li>
@@ -98,8 +98,8 @@
 
                     <li class="header__item">
                         <div class="header__content-wrapper">
-                            <a href="../contact-us.html#form" class="header__button header__button--contacts">Свяжитесь с нами</a>
-                            <a href="../order.html" class="header__button">Оставить заявку</a>
+                            <a href="./contact-us.html#form" class="header__button header__button--contacts">Свяжитесь с нами</a>
+                            <a href="./order.html" class="header__button">Оставить заявку</a>
                         </div>
                     </li>
                 </ul>
@@ -110,7 +110,7 @@
         <div class="nav__container nav__container-home">
             <div class="nav__wrapper">
                 <div class="nav__logo-wrapper m">
-                    <a class="nav__link" href="../index.html">
+                    <a class="nav__link" href="./index.html">
                         <!-- <img src="http://images.trans-s.su/assets/images/logo.png" alt="Изображение" class="nav__logo"> -->
                         <div class="top-logo">
                             <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="330px" height="65px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
@@ -172,15 +172,15 @@
                           <img src="http://images.trans-s.su/assets/images/Russia.gif" alt="Изображение" class="header__picture">
                       </div>
                       <div class="header__picture-wrapper">
-                          <a href="../en/index.html"><img src="http://images.trans-s.su/assets/images/USA.gif" alt="Изображение" class="header__picture"></a>
+                          <a href="./en/index.html"><img src="http://images.trans-s.su/assets/images/USA.gif" alt="Изображение" class="header__picture"></a>
                       </div>
                       <div class="header__picture-wrapper">
-                          <a href="../ch/index.html"><img src="http://images.trans-s.su/assets/images/china.gif" alt="Изображение" class="header__picture"></a>
+                          <a href="./ch/index.html"><img src="http://images.trans-s.su/assets/images/china.gif" alt="Изображение" class="header__picture"></a>
                       </div>
 									</div>
 	                </li>
                 <li class="nav__item">
-                    <a href="../about.html" class="nav__link">
+                    <a href="./about.html" class="nav__link">
                         О компании
                     </a>
                 </li>
@@ -191,32 +191,32 @@
                     <div class="nav__popup-wrapper">
                         <ul class="nav__popup-list">
                             <li class="nav__popup-item">
-                                <a href="../services/auto.html" class="nav__popup-link">
+                                <a href="./services/auto.html" class="nav__popup-link">
                                     Автомобильные грузоперевозки
                                 </a>
                             </li>
                             <li class="nav__popup-item">
-                                <a href="../services/train.html" class="nav__popup-link">
+                                <a href="./services/train.html" class="nav__popup-link">
                                     Железнодорожные  грузоперевозки
                                 </a>
                             </li>
                             <li class="nav__popup-item">
-                                <a href="../services/ship.html" class="nav__popup-link">
+                                <a href="./services/ship.html" class="nav__popup-link">
                                     Морские  грузоперевозки
                                 </a>
                             </li>
                             <li class="nav__popup-item">
-                                <a href="../services/multimodal.html" class="nav__popup-link">
+                                <a href="./services/multimodal.html" class="nav__popup-link">
                                     Мультимодальные  грузоперевозки
                                 </a>
                             </li>
                             <li class="nav__popup-item">
-                                <a href="../services/oversized.html" class="nav__popup-link">
+                                <a href="./services/oversized.html" class="nav__popup-link">
                                     Негабаритные  грузоперевозки
                                 </a>
                             </li>
                             <li class="nav__popup-item">
-                                <a href="../services/customs.html" class="nav__popup-link">
+                                <a href="./services/customs.html" class="nav__popup-link">
                                     Таможенное оформление
                                 </a>
                             </li>
@@ -230,27 +230,27 @@
 									<div class="nav__popup-wrapper">
 											<ul class="nav__popup-list">
 													<li class="nav__popup-item">
-															<a href="../inform/incotermes.html" class="nav__popup-link">
+															<a href="./inform/incotermes.html" class="nav__popup-link">
 																	Инкотермс
 															</a>
 													</li>
 													<li class="nav__popup-item">
-															<a href="../inform/type-trailers.html" class="nav__popup-link">
+															<a href="./inform/type-trailers.html" class="nav__popup-link">
 																	Виды грузовых автомобильных прицепов и полуприцепов
 															</a>
 													</li>
 													<li class="nav__popup-item">
-															<a href="../inform/iron-mobile.html" class="nav__popup-link">
+															<a href="./inform/iron-mobile.html" class="nav__popup-link">
 																	Виды подвижного железнодорожного состава
 															</a>
 													</li>
 													<li class="nav__popup-item">
-															<a href="../inform/iron-cont.html" class="nav__popup-link">
+															<a href="./inform/iron-cont.html" class="nav__popup-link">
 																	Виды железнодорожных контейнеров
 															</a>
 													</li>
 													<li class="nav__popup-item">
-															<a href="../inform/ship-cont.html" class="nav__popup-link">
+															<a href="./inform/ship-cont.html" class="nav__popup-link">
 																	Виды морских контейнеров
 															</a>
 													</li>
@@ -258,22 +258,22 @@
 									</div>
 							</li>
                 <li class="nav__item">
-                    <a href="../in-dev.html" class="nav__link">
+                    <a href="./in-dev.html" class="nav__link">
                         Портфолио
                     </a>
                 </li>
                 <li class="nav__item">
-                    <a href="../in-dev.html" class="nav__link">
+                    <a href="./in-dev.html" class="nav__link">
                         Отзывы
                     </a>
                 </li>
                 <li class="nav__item">
-                    <a href="../in-dev.html" class="nav__link">
+                    <a href="./in-dev.html" class="nav__link">
                         Статьи
                     </a>
                 </li>
                 <li class="nav__item">
-									<a href="../contacts.html" class="nav__link">
+									<a href="./contacts.html" class="nav__link">
 											Контакты
 									</a>
 								</li>
@@ -323,184 +323,62 @@
 				</div>
 		</div>
 
-    <section class="breadcrumbs">
-        <!--  <div class="breadcrumbs__container">
-            <div class="breadcrumbs__content">
-                <h3 class="breadcrumbs__main">
-                    Главная /
-                </h3>
 
-                <h3 class="breadcrumbs__active">
-                    Услуги /
-                </h3>
+    <section class="title">
+        <div class="title__container">
+            <ul class="title__list">
+                <li class="title__item">
+                    <div class="title__content">
+                        <h3 class="title__title-about">
+                            Страница в разработке!
+                        </h3>
+                        <div class="title__strip">
 
-                <h3 class="breadcrumbs__active">
-                    Железнодорожные грузоперевозки
-                </h3>
-            </div>
-        </div> -->
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
     </section>
+
+    <section class="form form__order">
+        <div class="form__container">
+            <form action="./response-order.php" class="form__content form__order" method="post">
+                <h3 class="form__title">Оставить заявку</h3>
+                <div class="form__input-fields-wrapper">
+
+                    <div class="form__input-fields">
+                        <input class="form__field form__name" type="text" name="dest-from" placeholder="Откуда: ">
+                        <input class="form__field form__where" type="text" name="dest-to" placeholder="Куда: ">
+                        <input class="form__field form__package-name" type="text" name="package-name" placeholder="Наименование груза: ">
+                        <input class="form__field form__weight" type="text" name="weight" placeholder="Вес груза, тн: ">
+                        <input class="form__field form__to" type="text" name="sizes" placeholder="Габариты груза (ДхШхВ), м: ">
+                        <input class="form__field form__space" type="text" name="space" placeholder="Объем груза, м3: ">
+                        <input class="form__field form__tel" type="phone"  placeholder="Ваш номер телефона: ">
+                    </div>
+
+                    <div class="form__input-fields">
+                        <textarea class="form__field form__field--textarea" type="text" name="comment" placeholder="Комментарий: "></textarea>
+                    </div>
+                </div>
+
+                <div class="form__privacy">
+                    <input class="form__checkbox" type="checkbox">
+                    <a href="./politic.html" class="form__accept">Я согласен с условиями пользовательского соглашения </a>
+                </div>
+
+                <button class="form__button" type="submit" disabled>Отправить</button>
+            </form>
+
+            <div class="form__message">Ваше сообщение отправлено</div>
+        </div>
+    </section>
+
 
     <section class="services">
         <div class="services__container">
             <ul class="services__list">
-                <li class="services__item serviceOneList">
-                    <div class="services__content">
-                        <h3 class="services__title">
-                            Железнодорожные грузоперевозки
-                        </h3>
-                        <div class="services__strip">
-
-                        </div>
-                    </div>
-                </li>
-
-                <li class="services__item serviceOneList">
-
-                    <div class="services__partners">
-                        <h4 class="services__partners-number">
-                            >5 тыс.
-                        </h4>
-                        <p class="services__partners-text">
-                            Доставленных грузов
-                        </p>
-                    </div>
-
-                    <div class="services__partners">
-                        <h4 class="services__partners-number">
-                            >500
-                        </h4>
-                        <p class="services__partners-text">
-                            Компаний партнеров
-                        </p>
-                    </div>
-                </li>
-                <li class="services__item serviceOneList">
-                    <p class="services__text">
-                      Компания «ТРАНССЕРВИС» оказывает услуги по перевозке грузов следующими видами подвижного железнодорожного состава:
-                    </p>
-                </li>
-            </ul>
-        </div>
-
-    </section>
-
-    <section class="auto-cards">
-        <div class="auto-cards__container">
-            <div class="auto-cards__list-wrapper">
-                <ul class="auto-cards__list">
-                    <li class="auto-cards__item">
-                        <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/platforms.jpg" alt="Платформы" titile="Платформы" class="auto-cards__picture">
-                        </div>
-
-                        <div class="auto-cards__content">
-                            <h4 class="auto-cards__title">
-                                Платформы
-                            </h4>
-                        </div>
-                    </li>
-
-                    <li class="auto-cards__item">
-                        <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/gondola.jpg" alt="Полувагоны" titile="Полувагоны" class="auto-cards__picture">
-                        </div>
-
-                        <div class="auto-cards__content">
-                            <h4 class="auto-cards__title">
-                                Полувагоны
-                            </h4>
-                        </div>
-                    </li>
-
-                    <li class="auto-cards__item">
-                        <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/carriage.jpg" alt="Крытые вагоны" titile="Крытые вагоны" class="auto-cards__picture">
-                        </div>
-
-                        <div class="auto-cards__content">
-                            <h4 class="auto-cards__title">
-                                Крытые вагоны
-                            </h4>
-                        </div>
-                    </li>
-
-                    <li class="auto-cards__item">
-                        <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/tanks.jpg" alt="Цистерны" titile="Цистерны" class="auto-cards__picture">
-                        </div>
-
-                        <div class="auto-cards__content">
-                            <h4 class="auto-cards__title">
-                                Цистерны
-                            </h4>
-                        </div>
-                    </li>
-
-                    <li class="auto-cards__item">
-                        <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/conveyors.jpg" alt="Транспортеры" titile="Транспортеры" class="auto-cards__picture">
-                        </div>
-
-                        <div class="auto-cards__content">
-                            <h4 class="auto-cards__title">
-                                Транспортеры
-                            </h4>
-                        </div>
-                    </li>
-
-
-                </ul>
-            </div>
-        </div>
-    </section>
-
-    <section class="customs-clearance">
-        <div class="custom-clearance__container">
-            <div class="custom-clearance__content">
-                <p class="custom-clearance__text">
-                    Дополнительно мы имеем возможность таможенного оформления и страхования всех отправляемых грузов.
-                </p>
-            </div>
-
-            <div class="custom-clearance__picture-wrapper">
-                <img class="custom-clearance__picture" src="http://images.trans-s.su/assets/images/Docs.png" alt="Изображение" titile="Изображение" >
-            </div>
-        </div>
-    </section>
-
-    <section class="services services--background">
-        <div class="services__container">
-            <ul class="services__list">
                 <li class="services__item">
-                    <div class="services__content">
-                        <h3 class="services__title">
-                            >15 видов транспорта
-                        </h3>
-                        <div class="services__strip">
-
-                        </div>
-                        <p class="services__text">
-                            Партнерские отношения с ведущими автомобильными, железнодорожными и морскими перевозчиками дают нашей компании возможность осуществлять перевозки на межконтинентальные расстояния без ограничения по объему груза и видам транспортных средств.
-                        </p>
-                    </div>
-                </li>
-
-                <li class="services__item">
-                    <div class="services__content">
-                        <h3 class="services__title">
-                            >20 стран для доставки
-                        </h3>
-                        <div class="services__strip">
-
-                        </div>
-                        <p class="services__text">
-                            Компания «ТРАНССЕРВИС» оказывает услуги по перевозке грузов, как в пределах России, так и в международных направлениях. Мы осуществляем перевозку грузов по следующим направлениям: Страны Азии (Китай, Монголия, Грузия, Таджикистан, Узбекистан и другие); Страны Европейского Союза (Германия, Австрия, Чехия и другие); Страны ЕАЭС (Казахстан, Белоруссия, Армения, Киргизия); Страны Африки, Америки и Австралии.
-                        </p>
-                    </div>
-                </li>
-
-                <li class="services__item services__item--padding">
                     <div class="services__content">
                         <h3 class="services__title">
                             Будем рады видеть Вас в числе наших клиентов!
@@ -514,23 +392,21 @@
                     </div>
                 </li>
 
-                <li class="services__item services__item--padding">
+                <li class="services__item">
                     <div class="services__content">
-                        <div class="services__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/map.png" alt="Изображение" titile="Изображение" class="services__picture">
-                        </div>
+                       <div class="services__picture-wrapper">
+                           <img src="http://images.trans-s.su/assets/images/map.png" alt="Изображение" class="services__picture">
+                       </div>
                     </div>
                 </li>
             </ul>
         </div>
     </section>
 
-    
-
     <div id="form" class="form__line-watch"></div>
     <section class="form">
         <div class="form__container">
-            <form action="../response.php" class="form__content" method="POST">
+            <form action="./response.php" class="form__content" method="POST">
                 <h3 class="form__title">Свяжитесь с нами</h3>
                 <div class="form__input-fields-wrapper">
                     <div class="form__input-fields">
@@ -547,10 +423,10 @@
 
                 <div class="form__privacy">
                     <input class="form__checkbox" type="checkbox">
-                    <a href="../politic.html" class="form__accept">Я согласен с условиями пользовательского соглашения </a>
+                    <a href="./politic.html" class="form__accept">Я согласен с условиями пользовательского соглашения </a>
                 </div>
 
-                <input class="form__button" type="submit" value="Отправить">
+                <button class="form__button test" type="submit">Отправить</button>
             </form>
 
             <div class="form__message">Ваше сообщение отправлено</div>
@@ -564,23 +440,23 @@
                     <h4 class="footer__title">О компании</h4>
                 </li>
                 <li class="footer__item">
-                    <a href="../about.html" class="footer__link">О компании</a>
+                    <a href="./about.html" class="footer__link">О компании</a>
                 </li>
 
                 <li class="footer__item">
-                    <a href="../in-dev.html" class="footer__link">Портфолио</a>
+                    <a href="./in-dev.html" class="footer__link">Портфолио</a>
                 </li>
 
                 <li class="footer__item">
-                    <a href="../in-dev.html" class="footer__link">Отзывы</a>
+                    <a href="./in-dev.html" class="footer__link">Отзывы</a>
                 </li>
                 
                 <li class="footer__item">
-                    <a href="../in-dev.html" class="footer__link">Статьи</a>
+                    <a href="./in-dev.html" class="footer__link">Статьи</a>
                 </li>
 
                 <li class="footer__item">
-                    <a href="../contacts.html" class="footer__link">Контакты</a>
+                    <a href="./contacts.html" class="footer__link">Контакты</a>
                 </li>
             </ul>
 
@@ -590,22 +466,22 @@
                 </li>
 
                 <li class="footer__item">
-                    <a href="./auto.html" class="footer__link">Автомобильные грузоперевозки</a>
+                    <a href="./services/auto.html" class="footer__link">Автомобильные грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./train.html" class="footer__link">Железнодорожные  грузоперевозки</a>
+                    <a href="./services/train.html" class="footer__link">Железнодорожные  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./ship.html" class="footer__link">Морские  грузоперевозки</a>
+                    <a href="./services/ship.html" class="footer__link">Морские  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./multimodal.html" class="footer__link">Мультимодальные  грузоперевозки</a>
+                    <a href="./services/multimodal.html" class="footer__link">Мультимодальные  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./oversized.html" class="footer__link">Негабаритные  грузоперевозки</a>
+                    <a href="./services/oversized.html" class="footer__link">Негабаритные  грузоперевозки</a>
                 </li>
                 <li class="footer__item">
-                    <a href="./customs.html" class="footer__link">Таможенное оформление</a>
+                    <a href="./services/customs.html" class="footer__link">Таможенное оформление</a>
                 </li>
             </ul>
 
@@ -614,19 +490,19 @@
                     <h4 class="footer__title"  > Справочная информация</h4>
                 </li>
                 <li class="footer__item">
-                    <a href="../inform/incotermes.html" class="footer__link">Инкотермс</a>
+                    <a href="./inform/incotermes.html" class="footer__link">Инкотермс</a>
                 </li>
                 <li class="footer__item">
-                    <a href="../inform/type-trailers.html" class="footer__link">Виды грузовых автомобильных прицепов и полуприцепов</a>
+                    <a href="./inform/type-trailers.html" class="footer__link">Виды грузовых автомобильных прицепов и полуприцепов</a>
                 </li>
                 <li class="footer__item">
-                    <a href="../inform/iron-mobile.html" class="footer__link">Виды подвижного железнодорожного состава</a>
+                    <a href="./inform/iron-mobile.html" class="footer__link">Виды подвижного железнодорожного состава</a>
                 </li>
                 <li class="footer__item">
-                    <a href="../inform/iron-cont.html" class="footer__link">Виды железнодорожных контейнеров</a>
+                    <a href="./inform/iron-cont.html" class="footer__link">Виды железнодорожных контейнеров</a>
                 </li>
                 <li class="footer__item">
-                    <a href="../inform/ship-cont.html" class="footer__link">Виды морских контейнеров</a>
+                    <a href="./inform/ship-cont.html" class="footer__link">Виды морских контейнеров</a>
                 </li>
             </ul>
 
@@ -670,10 +546,10 @@
         </div>
     </footer>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script src="../assets/javascript/menu.js"></script>
-    <script src="../assets/javascript/form.js"></script>
+    <script src="./assets/javascript/menu.js"></script>
+    <script src="./assets/javascript/form.js"></script>
 		<script src="https://api-maps.yandex.ru/2.0/?load=package.full&lang=ru-RU" type="text/javascript"></script>
-		<script src="../assets/javascript/jquery.cookie.js"></script>
+		<script src="./assets/javascript/jquery.cookie.js"></script>
     <!-- Yandex.Metrika counter -->
     <script type="text/javascript" >
        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
@@ -714,7 +590,6 @@
     </button>
     <link rel="stylesheet" href="https://trans74.of21.net/assets/callback.css" />
     <script src="https://trans74.of21.net/api/js?token=4b238a8e40da814492dface036e73472" type="text/javascript" charset="utf-8"></script>
-
 </div>
 
 </body>

@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Автомобильные грузоперевозки</title>
-    <meta name="description" content="Автомобильные грузоперевозки по всей России. Доставка грузов любого объема. Международные перевозки грузов автомобильным транспортом.">
+    <title>Негабаритные грузоперевозки</title>
+    <meta name="description" content="Негабаритные грузоперевозки по всей России. Доставка грузов любого объема. Международные перевозки негабаритных грузов разным транспортом.">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142834567-1"></script>
 <script>
@@ -29,7 +29,7 @@
     <link rel="stylesheet" href="../assets/styles/page/services-blog.css">
 
     <link rel="stylesheet" href="../assets/styles/styles.css">
-    <link href="../assets/images/favicon.ico" rel="shortcut icon" type=image/vnd.microsoft.icon />
+    <link href="./assets/images/favicon.ico" rel="shortcut icon" type=image/vnd.microsoft.icon />
 
 </head>
 <body>
@@ -335,7 +335,7 @@
                 </h3>
 
                 <h3 class="breadcrumbs__active">
-                    Автомобильные грузоперевозки
+                    Негабаритные грузоперевозки
                 </h3>
             </div>
         </div> -->
@@ -347,7 +347,7 @@
                 <li class="services__item serviceOneList">
                     <div class="services__content">
                         <h3 class="services__title">
-                            Автомобильные грузоперевозки
+                            Негабаритные грузоперевозки
                         </h3>
                         <div class="services__strip">
 
@@ -377,7 +377,7 @@
                 </li>
                 <li class="services__item serviceOneList">
                     <p class="services__text">
-                      Компания «ТРАНССЕРВИС» оказывает услуги по перевозке грузов следующими видами автомобильного транспорта:
+                      Компания «ТРАНССЕРВИС» оказывает услуги по перевозке негабаритных грузов следующими видами транспорта:
                     </p>
                 </li>
             </ul>
@@ -385,166 +385,47 @@
 
     </section>
 
-    <!-- <section class="services-blog">
-      <div class="services-blog__item">
-          <div class="item__text">
-            <h2>Автомобильные грузоперевозки</h2>
-
-            <p>Компания «ТРАНССЕРВИС» оказывает услуги по перевозке грузов следующими видами автомобильного транспорта:</p>
-
-            <ul class="text__list">
-              <li>Тентованные автомобили</li>
-              <li>Открытые бортовые автомобили</li>
-              <li>Контейнеровозы</li>
-              <li>Автоцистерны</li>
-              <li>Бензовозы</li>
-              <li>Платформы и низкорамные тралы</li>
-              <li>Изотермические автомобили</li>
-              <li>Рефрижераторные автомобили</li>
-              <li>Лесовозы</li>
-              <li>Автовозы</li>
-            </ul>
-
-            <p>Мы осуществляем перевозку грузов автомобильным транспортом по следующим направлениям:</p>
-
-            <ul class="text__list">
-              <li>Грузоперевозки по России</li>
-              <li>Страны ЕАЭС (Казахстан, Белоруссия, Армения, Киргизия)</li>
-              <li>Страны Азии (Китай, Монголия, Грузия, Таджикистан, Узбекистан)</li>
-              <li>Страны Прибалтики (Литва, Латвия, Эстония)Страны Европейского Союза (Германия, Австрия, Чехия и другие)</li>
-              <li>Страны Европейского Союза (Германия, Австрия, Чехия и другие)</li>
-            </ul>
-
-            <p>Дополнительно мы имеем возможность таможенного оформления и страхования всех отправляемых грузов.</p>
-          </div>
-
-        <img src="http://images.trans-s.su/assets/images/autogruz.jpg"  class="pull-right">
-      </div>
-    </section> -->
-
     <section class="auto-cards">
         <div class="auto-cards__container">
             <div class="auto-cards__list-wrapper">
                 <ul class="auto-cards__list">
                     <li class="auto-cards__item">
                         <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/awning-auto.jpg" alt="Тентованные автомобили" title='Тентованные автомобили' class="auto-cards__picture">
+                            <img src="http://images.trans-s.su/assets/images/auto/auto.jpg" alt="Автомомобильный транспорт" title="Автомомобильный транспорт" class="auto-cards__picture">
                         </div>
 
                         <div class="auto-cards__content">
                             <h4 class="auto-cards__title">
-                                Тентованные автомобили
+                                Автомомобильный транспорт
                             </h4>
                         </div>
                     </li>
 
                     <li class="auto-cards__item">
                         <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/openside-auto.jpg" alt="Открытые бортовые автомобили" title='Открытые бортовые автомобили' class="auto-cards__picture">
+                            <img src="http://images.trans-s.su/assets/images/auto/train.jpg" alt="Железнодорожный транспорт" title="Железнодорожный транспорт" class="auto-cards__picture">
                         </div>
 
                         <div class="auto-cards__content">
                             <h4 class="auto-cards__title">
-                                Открытые бортовые автомобили
+                                Железнодорожный транспорт
                             </h4>
                         </div>
                     </li>
 
                     <li class="auto-cards__item">
                         <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/container-auto.jpg" alt="Контейнеровозы" title='Контейнеровозы' class="auto-cards__picture">
+                            <img src="http://images.trans-s.su/assets/images/auto/ship.jpg" alt="Морской транспорт" title="Морской транспорт" class="auto-cards__picture">
                         </div>
 
                         <div class="auto-cards__content">
                             <h4 class="auto-cards__title">
-                                Контейнеровозы
+                                Морской транспорт
                             </h4>
                         </div>
                     </li>
 
-                    <li class="auto-cards__item">
-                        <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/tank-trucks.jpg" alt="Автоцистерны" title='Автоцистерны' class="auto-cards__picture">
-                        </div>
 
-                        <div class="auto-cards__content">
-                            <h4 class="auto-cards__title">
-                                Автоцистерны
-                            </h4>
-                        </div>
-                    </li>
-
-                    <li class="auto-cards__item">
-                        <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/fuel-trucks.jpg" alt="Бензовозы" title='Бензовозы' class="auto-cards__picture">
-                        </div>
-
-                        <div class="auto-cards__content">
-                            <h4 class="auto-cards__title">
-                                Бензовозы
-                            </h4>
-                        </div>
-                    </li>
-
-                    <li class="auto-cards__item">
-                        <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/tral.jpg" alt="Платформы и низкорамные тралы" title='Платформы и низкорамные тралы' class="auto-cards__picture">
-                        </div>
-
-                        <div class="auto-cards__content">
-                            <h4 class="auto-cards__title">
-                                Площадки и низкорамные тралы
-                            </h4>
-                        </div>
-                    </li>
-
-                    <li class="auto-cards__item">
-                        <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/refrizherator.jpg" alt="Изометрические автомобили" title='Изометрические автомобили' class="auto-cards__picture">
-                        </div>
-
-                        <div class="auto-cards__content">
-                            <h4 class="auto-cards__title">
-                                Изометрические автомобили
-                            </h4>
-                        </div>
-                    </li>
-
-                    <li class="auto-cards__item">
-                        <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/refrizherator.jpg" alt="Рефрижераторные автомобили" title='Рефрижераторные автомобили' class="auto-cards__picture">
-                        </div>
-
-                        <div class="auto-cards__content">
-                            <h4 class="auto-cards__title">
-                                Рефрижераторные автомобили
-                            </h4>
-                        </div>
-                    </li>
-
-                    <li class="auto-cards__item">
-                        <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/loggong-truks.jpg" alt="Лесовозы" title='Лесовозы' class="auto-cards__picture">
-                        </div>
-
-                        <div class="auto-cards__content">
-                            <h4 class="auto-cards__title">
-                                Лесовозы
-                            </h4>
-                        </div>
-                    </li>
-
-                    <li class="auto-cards__item">
-                        <div class="auto-cards__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/auto/car-transporters.jpg" alt="Автовозы" title='Автовозы' class="auto-cards__picture">
-                        </div>
-
-                        <div class="auto-cards__content">
-                            <h4 class="auto-cards__title">
-                                Автовозы
-                            </h4>
-                        </div>
-                    </li>
 
 
                 </ul>
@@ -561,7 +442,7 @@
             </div>
 
             <div class="custom-clearance__picture-wrapper">
-                <img class="custom-clearance__picture" src="http://images.trans-s.su/assets/images/Docs.png" alt="Изображение" title='' >
+                <img class="custom-clearance__picture" src="http://images.trans-s.su/assets/images/Docs.png" alt="Изображение" title="Изображение" >
             </div>
         </div>
     </section>
@@ -614,7 +495,7 @@
                 <li class="services__item services__item--padding">
                     <div class="services__content">
                         <div class="services__picture-wrapper">
-                            <img src="http://images.trans-s.su/assets/images/map.png" alt="Изображение" title='' class="services__picture">
+                            <img src="http://images.trans-s.su/assets/images/map.png" alt="Изображение" title="Изображение" class="services__picture">
                         </div>
                     </div>
                 </li>
@@ -773,7 +654,7 @@
     <script src="../assets/javascript/form.js"></script>
 		<script src="https://api-maps.yandex.ru/2.0/?load=package.full&lang=ru-RU" type="text/javascript"></script>
 		<script src="../assets/javascript/jquery.cookie.js"></script>
-    <!-- Yandex.Metrika counter -->
+<!-- Yandex.Metrika counter -->
     <script type="text/javascript" >
        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
@@ -805,6 +686,7 @@
     <!-- /Yandex.Metrika counter -->
 
     <!-- Офис 21 века -->
+
     <button id="callme_wrap">
       <div class="callme_image">
         <img src="http://images.trans-s.su/assets/images/phone.svg" />
