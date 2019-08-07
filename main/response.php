@@ -14,5 +14,5 @@ $letter .="\nСообщение: ".stripcslashes(htmlspecialchars($_POST['messag
 
 mail($mail, $theme, $letter);
 
-header("Location: ./index.html")
+header("Location: ./")
 ?>

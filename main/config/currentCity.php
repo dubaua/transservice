@@ -1,5 +1,4 @@
 <?php
-
 include_once('cityConfig.php');
 
 // getting domain name
@@ -14,5 +13,4 @@ $subdomain = array_diff($domains , ["trans-s", "su"])[0];
 $subdomain = isset($cityConfig[$subdomain]) ? $subdomain : "default";
 
 $currentCity = $cityConfig[$subdomain];
-
 ?>

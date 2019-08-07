@@ -1,7 +1,4 @@
 <?php
-
-header('Content-type: text/plain; charset=utf-8');
-
 $cityConfig = array(
   /*По умолчанию*/
   "default" => array(

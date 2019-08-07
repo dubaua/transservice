@@ -1,234 +1,235 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-	<loc>https://www.trans-s.su/</loc>
-	<lastmod>2019-04-24T14:12:13+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/en/index.html</loc>
-	<lastmod>2019-04-24T14:12:16+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/ch/index.html</loc>
-	<lastmod>2019-04-24T14:12:23+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/index.html</loc>
-	<lastmod>2019-04-24T14:12:23+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/about.html</loc>
-	<lastmod>2019-04-24T14:12:25+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/services/auto.html</loc>
-	<lastmod>2019-04-24T14:12:26+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/services/train.html</loc>
-	<lastmod>2019-04-24T14:12:26+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/services/ship.html</loc>
-	<lastmod>2019-04-24T14:12:26+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/services/multimodal.html</loc>
-	<lastmod>2019-04-24T14:12:26+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/services/oversized.html</loc>
-	<lastmod>2019-04-24T14:12:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/services/customs.html</loc>
-	<lastmod>2019-04-24T14:12:26+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/inform/incotermes.html</loc>
-	<lastmod>2019-04-24T14:12:31+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/inform/type-trailers.html</loc>
-	<lastmod>2019-04-24T14:12:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/inform/iron-mobile.html</loc>
-	<lastmod>2019-04-24T14:12:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/inform/iron-cont.html</loc>
-	<lastmod>2019-04-24T14:12:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/inform/ship-cont.html</loc>
-	<lastmod>2019-04-24T14:12:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/contacts.html</loc>
-	<lastmod>2019-04-24T14:12:28+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/politic.html</loc>
-	<lastmod>2019-04-24T14:12:27+01:00</lastmod>
-	<priority>1.0</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/en/about.html</loc>
-	<lastmod>2019-04-24T14:12:27+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/en/services/auto.html</loc>
-	<lastmod>2019-04-24T14:12:28+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/en/services/train.html</loc>
-	<lastmod>2019-04-24T14:12:28+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/en/services/ship.html</loc>
-	<lastmod>2019-04-24T14:12:28+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/en/services/multimodal.html</loc>
-	<lastmod>2019-04-24T14:12:28+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/en/services/oversized.html</loc>
-	<lastmod>2019-04-24T14:12:28+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/en/services/customs.html</loc>
-	<lastmod>2019-04-24T14:12:29+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/en/inform/incotermes.html</loc>
-	<lastmod>2019-04-24T14:12:28+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/en/inform/type-trailers.html</loc>
-	<lastmod>2019-04-24T14:12:29+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/en/inform/iron-mobile.html</loc>
-	<lastmod>2019-04-24T14:12:29+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/en/inform/iron-cont.html</loc>
-	<lastmod>2019-04-24T14:12:29+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/en/inform/ship-cont.html</loc>
-	<lastmod>2019-04-24T14:12:29+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/en/contacts.html</loc>
-	<lastmod>2019-04-24T14:12:29+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/en/politic.html</loc>
-	<lastmod>2019-04-24T14:12:29+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/ch/about.html</loc>
-	<lastmod>2019-04-24T14:12:30+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/ch/services/auto.html</loc>
-	<lastmod>2019-04-24T14:12:30+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/ch/services/train.html</loc>
-	<lastmod>2019-04-24T14:12:30+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/ch/services/ship.html</loc>
-	<lastmod>2019-04-24T14:12:30+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/ch/services/multimodal.html</loc>
-	<lastmod>2019-04-24T14:12:30+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/ch/services/oversized.html</loc>
-	<lastmod>2019-04-24T14:12:31+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/ch/services/customs.html</loc>
-	<lastmod>2019-04-24T14:12:30+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/ch/inform/incotermes.html</loc>
-	<lastmod>2019-04-24T14:12:31+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/ch/inform/type-trailers.html</loc>
-	<lastmod>2019-04-24T14:12:31+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/ch/inform/iron-mobile.html</loc>
-	<lastmod>2019-04-24T14:12:31+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/ch/inform/iron-cont.html</loc>
-	<lastmod>2019-04-24T14:12:31+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/ch/inform/ship-cont.html</loc>
-	<lastmod>2019-04-24T14:12:33+01:00</lastmod>
-	<priority>0.6</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/ch/contacts.html</loc>
-	<lastmod>2019-04-24T14:12:31+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
-	<loc>https://www.trans-s.su/ch/politic.html</loc>
-	<lastmod>2019-04-24T14:12:31+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
+<!--	created with www.mysitemapgenerator.com	-->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://www.trans-s.su/</loc>
+    <lastmod>2019-04-24T14:12:13+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/en/</loc>
+    <lastmod>2019-04-24T14:12:16+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/ch/</loc>
+    <lastmod>2019-04-24T14:12:23+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/</loc>
+    <lastmod>2019-04-24T14:12:23+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/about/</loc>
+    <lastmod>2019-04-24T14:12:25+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/services/auto/</loc>
+    <lastmod>2019-04-24T14:12:26+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/services/train/</loc>
+    <lastmod>2019-04-24T14:12:26+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/services/ship/</loc>
+    <lastmod>2019-04-24T14:12:26+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/services/multimodal/</loc>
+    <lastmod>2019-04-24T14:12:26+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/services/oversized/</loc>
+    <lastmod>2019-04-24T14:12:27+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/services/customs/</loc>
+    <lastmod>2019-04-24T14:12:26+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/inform/incotermes/</loc>
+    <lastmod>2019-04-24T14:12:31+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/inform/type-trailers/</loc>
+    <lastmod>2019-04-24T14:12:27+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/inform/iron-mobile/</loc>
+    <lastmod>2019-04-24T14:12:27+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/inform/iron-cont/</loc>
+    <lastmod>2019-04-24T14:12:27+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/inform/ship-cont/</loc>
+    <lastmod>2019-04-24T14:12:27+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/contacts/</loc>
+    <lastmod>2019-04-24T14:12:28+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/politic/</loc>
+    <lastmod>2019-04-24T14:12:27+01:00</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/en/about/</loc>
+    <lastmod>2019-04-24T14:12:27+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/en/services/auto/</loc>
+    <lastmod>2019-04-24T14:12:28+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/en/services/train/</loc>
+    <lastmod>2019-04-24T14:12:28+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/en/services/ship/</loc>
+    <lastmod>2019-04-24T14:12:28+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/en/services/multimodal/</loc>
+    <lastmod>2019-04-24T14:12:28+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/en/services/oversized/</loc>
+    <lastmod>2019-04-24T14:12:28+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/en/services/customs/</loc>
+    <lastmod>2019-04-24T14:12:29+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/en/inform/incotermes/</loc>
+    <lastmod>2019-04-24T14:12:28+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/en/inform/type-trailers/</loc>
+    <lastmod>2019-04-24T14:12:29+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/en/inform/iron-mobile/</loc>
+    <lastmod>2019-04-24T14:12:29+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/en/inform/iron-cont/</loc>
+    <lastmod>2019-04-24T14:12:29+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/en/inform/ship-cont/</loc>
+    <lastmod>2019-04-24T14:12:29+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/en/contacts/</loc>
+    <lastmod>2019-04-24T14:12:29+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/en/politic/</loc>
+    <lastmod>2019-04-24T14:12:29+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/ch/about/</loc>
+    <lastmod>2019-04-24T14:12:30+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/ch/services/auto/</loc>
+    <lastmod>2019-04-24T14:12:30+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/ch/services/train/</loc>
+    <lastmod>2019-04-24T14:12:30+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/ch/services/ship/</loc>
+    <lastmod>2019-04-24T14:12:30+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/ch/services/multimodal/</loc>
+    <lastmod>2019-04-24T14:12:30+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/ch/services/oversized/</loc>
+    <lastmod>2019-04-24T14:12:31+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/ch/services/customs/</loc>
+    <lastmod>2019-04-24T14:12:30+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/ch/inform/incotermes/</loc>
+    <lastmod>2019-04-24T14:12:31+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/ch/inform/type-trailers/</loc>
+    <lastmod>2019-04-24T14:12:31+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/ch/inform/iron-mobile/</loc>
+    <lastmod>2019-04-24T14:12:31+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/ch/inform/iron-cont/</loc>
+    <lastmod>2019-04-24T14:12:31+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/ch/inform/ship-cont/</loc>
+    <lastmod>2019-04-24T14:12:33+01:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/ch/contacts/</loc>
+    <lastmod>2019-04-24T14:12:31+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.trans-s.su/ch/politic/</loc>
+    <lastmod>2019-04-24T14:12:31+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
 </urlset>
