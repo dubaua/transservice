@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /assets
+Disallow: /oldsite-backup.jpa
+Disallow: /*?*
+
+host: https://www.trans-s.su
+Sitemap: https://www.trans-s.su/sitemap.xml

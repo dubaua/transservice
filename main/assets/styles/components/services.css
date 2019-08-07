@@ -1,0 +1,147 @@
+.services {
+
+    /*margin: 0 20px;*/
+    width: 100%;
+}
+
+.services--background {
+    background: url("../../images/map-bg.png");
+}
+
+.services__container {
+    max-width: 1136px;
+    margin: 0 auto;
+    padding: 0 -20px;
+}
+
+.services__list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.numbers {
+    display:  block !important;
+}
+
+.numbers .services__item{
+    width: 70% !important;
+}
+
+@media (max-width: 850px) {
+    .numbers .services__item{
+        width: 100% !important;
+    }
+}
+
+.services__item {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 80px 20px 20px 20px;
+}
+
+.serviceOneList {
+    padding: 10px;
+}
+
+
+
+@media screen and (min-width: 768px){
+    .services__item {
+        width: 50%;
+    }
+
+    .services__item--padding {
+        padding: 50px 20px 50px 20px;
+
+    }
+}
+
+
+
+
+.services__title {
+    line-height: 53px;
+    font-size: 34px;
+
+    color: #066271;
+
+}
+
+.services__strip {
+    width: 80px;
+    height: 2px;
+    background: #056474;
+    margin-top: 25px;
+
+}
+
+.services__text {
+    line-height: 24px;
+    font-size: 16px;
+
+    color: #5A6D70;
+}
+
+.services__partners {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media screen and (min-width: 768px){
+    .services__partners {
+        width: 50%;
+    }
+}
+
+
+
+.services__partners-number {
+    margin-right: 10px;
+    line-height: 64px;
+    font-size: 35px;
+    color: #066271;
+}
+
+.services__partners-text {
+    line-height: 21px;
+    font-size: 16px;
+    width: 50%;
+    color: #066271;
+}
+
+.services__picture {
+   /* position: absolute; */
+   content: "";
+    left: 0;
+    right: 0;
+    object-fit: cover;
+    height: 200px;
+    width: 340px;
+
+}
+
+@media screen and (min-width: 1024px) {
+    .services__picture {
+        height: 320px;
+        width: 100%;
+    }
+}
+
+.services__picture-wrapper {
+   position: relative;
+}
+
+@media (max-width: 375px) {
+    .services__picture {
+        position: static;
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .auto-cards__picture {
+        object-fit: contain;
+    }
+}

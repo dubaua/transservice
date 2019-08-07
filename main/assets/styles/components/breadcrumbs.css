@@ -1,0 +1,37 @@
+.breadcrumbs {
+    width: 100%;
+    padding: 0 20px;
+    margin-top: 126px;
+}
+
+
+/*@media screen and (min-width: 1024px) {*/
+    /*.breadcrumbs {*/
+        /*margin-top: 170px;*/
+    /*}*/
+/*}*/
+
+@media screen and (max-width: 1025px) {
+    .breadcrumbs {
+        margin-top: 100px;
+    }
+}
+
+.breadcrumbs__container {
+    max-width: 1136px;
+    margin: 0 auto;
+    line-height: 24px;
+    font-size: 20px;
+
+    color: #8D9A9C;
+}
+
+.breadcrumbs__content {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.breadcrumbs__active {
+    color: #066271;
+}
+

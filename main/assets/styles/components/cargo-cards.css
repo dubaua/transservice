@@ -1,0 +1,122 @@
+.cargo-cards {
+    font-family: 'Cera Pro Regular';
+    padding: 0 20px;
+    width: 100%;
+}
+
+.cargo-cards__container {
+    max-width: 1136px;
+    /*background-color: antiquewhite;*/
+    margin: 0 auto;
+}
+
+.cargo-cards__list {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.cargo-cards__item {
+    width: 100%;
+    min-height: 250px;
+    /*border: 1px solid #C4C4C4;*/
+    padding: 30px 80px;
+    /*background-color: #F5F9FA;*/
+    background: #FFFFFF;
+    box-shadow: inset 0px -1px 0px #DCEEF2, inset 1px 0px 0px #DCEEF2, inset 0px 1px 0px #DCEEF2, inset -1px 0px 0px #DCEEF2;
+    /*box-shadow: inset 0px 1px 0px #DCEEF2, inset 1px 0px 0px #DCEEF2;*/
+    z-index: 1;
+    /*background-image: url(../../images/van.jpg);*/
+    vertical-align: middle;
+}
+@media screen and (min-width: 580px) {
+    .cargo-cards__item  {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .cargo-cards__item  {
+        width: 33.3%;
+    }
+
+    /* .widthLoader{
+        width: 160px !important;
+        height: 160px !important;
+    } */
+}
+
+.cargo-cards__link {
+   text-decoration: none;
+}
+
+.cargo-cards__content {
+    width: 130px;
+    height: 130px;
+    background: linear-gradient(180deg, #D2EEF5 0%, #B6E9F0 100%);
+    border-radius: 50%;
+    margin: 0 auto;
+    display: flex;
+    position: relative;
+    /*margin-bottom: 20px;*/
+}
+
+.cargo-cards__content svg {
+    width: 250px;
+}
+
+.cargo-cards__content img {
+    width: 120%;
+    /* display:  none; */
+}
+
+.cargo-cards__picture {
+    position: absolute;
+    /*left: 0;*/
+    /*top: 0;*/
+    /*content: "";*/
+    /*object-fit: cover;*/
+    /*position: absolute;*/
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 160px;
+}
+
+
+.cargo-cards__item:hover {
+    background-color: #F5F9FA;
+}
+
+
+
+.cargo-cards__title {
+    margin-top: 20px;
+    line-height: 27px;
+    font-size: 20px;
+    color: #066271;
+    text-align: center;
+    /*max-width: 200px;*/
+
+}
+
+.cargo-cards__text {
+    line-height: 24px;
+    font-size: 16px;
+
+    color: #5A6D70;
+}
+
+.cargo-cards__image-wrapper {
+    position: absolute;
+    width: 744px;
+    height: 285px;
+    left: 312px;
+    top: -44px;
+}
+
+@media(max-width: 600px) {
+    .cargo-cards__item {
+        padding: 30px 0;
+    }
+}

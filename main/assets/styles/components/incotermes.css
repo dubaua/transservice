@@ -1,0 +1,23 @@
+.incotermes__info {
+	width:  100%;
+}
+
+.incotermes__info .wrapper {
+	max-width: 1136px;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+
+.incotermes__info .wrapper .info__header .header__title{
+	font-size: 30px;
+	font-weight: 900;
+	margin-bottom: 30px;
+}
+
+.incotermes__info .wrapper .info__header .header__text{
+	padding: 0;
+}
+
+.incotermes__info .wrapper .info__main .main__img{
+	width: 100%;
+}

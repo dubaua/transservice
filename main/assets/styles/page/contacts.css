@@ -1,0 +1,29 @@
+.contacts {
+	width: 100%;
+}
+
+.contacts .wrapp {
+	display: flex;
+	margin: 0 auto;
+	max-width: 1136px;
+	justify-content: space-between;
+}
+
+.contacts .wrapp .text__title {
+	font-size: 30px;
+	font-weight: 700;
+}
+
+.contacts .wrapp .contacts__map {
+	width: 540px;
+}
+
+.contacts .wrapp .text__text a {
+	color: black;	
+}
+
+@media (max-width: 800px) {
+	.contacts .wrapp {
+		flex-wrap: wrap;
+	}
+}
